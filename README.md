@@ -95,8 +95,7 @@ Any redistribution of `courts.geojson` / `courts.csv` must preserve attribution.
 
 ## Ideas for next steps
 
-- **Canton resolution** — spatial join against swisstopo cantons GeoJSON so `addr:city`-less courts still get a region.
+- **OSM contributions** — see [CONTRIBUTING_OSM.md](./CONTRIBUTING_OSM.md).
 - **Nominatim reverse geocode** — fill in missing `municipality` (watch the 1 req/s limit).
 - **Swiss Beachvolley Tour overlay** — enrich with `tournament_venue: true` for courts hosting official events.
-- **Static viewer** — tiny Leaflet page deployed on Cloudflare Pages, consuming `courts.geojson` directly.
 - **OpenVolley integration** — push coords into the OpenVolley venue picker.
