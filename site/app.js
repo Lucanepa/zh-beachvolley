@@ -11,6 +11,7 @@ const state = {
   visible: [],      // after search + filter
   search: "",
   filter: "all",    // "all" | "outdoor" | "indoor"
+  cantons: new Set(), // selected canton codes; empty = all
   selectedId: null,
 };
 
@@ -18,7 +19,8 @@ const els = {
   list: document.getElementById("courts"),
   count: document.getElementById("count"),
   search: document.getElementById("search"),
-  chips: document.querySelectorAll(".chip"),
+  chips: document.querySelectorAll(".filter-row .chip"),
+  cantonRow: document.getElementById("canton-row"),
 };
 
 // ─── Map ──────────────────────────────────────────────────────────────────
@@ -51,6 +53,7 @@ async function loadData() {
     renderList([], "Could not load data.");
     return;
   }
+  renderCantonChips();
   recompute();
 }
 
@@ -60,11 +63,14 @@ function recompute() {
     const p = f.properties || {};
     if (state.filter === "indoor" && !p.indoor) return false;
     if (state.filter === "outdoor" && p.indoor) return false;
+    if (state.cantons.size > 0 && !state.cantons.has(p.canton)) return false;
     if (!q) return true;
     const hay = [
       p.name,
       p.municipality,
       p.operator,
+      p.canton,
+      p.cantonName,
       p.surface,
       p.access,
     ]
@@ -74,6 +80,56 @@ function recompute() {
     return hay.includes(q);
   });
   render();
+}
+
+function renderCantonChips() {
+  const counts = new Map();
+  const names = new Map();
+  for (const f of state.features) {
+    const code = f.properties?.canton;
+    if (!code) continue;
+    counts.set(code, (counts.get(code) ?? 0) + 1);
+    if (f.properties.cantonName) names.set(code, f.properties.cantonName);
+  }
+  if (counts.size === 0) {
+    els.cantonRow.hidden = true;
+    return;
+  }
+  const codes = [...counts.keys()].sort();
+  const html = [
+    `<button class="chip chip-canton chip-canton-all" data-canton="" aria-pressed="true">All cantons</button>`,
+    ...codes.map(
+      (code) =>
+        `<button class="chip chip-canton" data-canton="${escapeAttr(code)}" aria-pressed="false" title="${escapeAttr(names.get(code) ?? code)}">${escapeHtml(code)}<span class="n">${counts.get(code)}</span></button>`,
+    ),
+  ];
+  els.cantonRow.innerHTML = html.join("");
+  els.cantonRow.querySelectorAll(".chip-canton").forEach((chip) => {
+    chip.addEventListener("click", () => toggleCantonChip(chip.dataset.canton ?? ""));
+  });
+}
+
+function toggleCantonChip(code) {
+  if (!code) {
+    // "All cantons" — clear multi-select.
+    state.cantons.clear();
+  } else if (state.cantons.has(code)) {
+    state.cantons.delete(code);
+  } else {
+    state.cantons.add(code);
+  }
+  syncCantonChipPressed();
+  recompute();
+}
+
+function syncCantonChipPressed() {
+  els.cantonRow.querySelectorAll(".chip-canton").forEach((chip) => {
+    const code = chip.dataset.canton ?? "";
+    const pressed = code === ""
+      ? state.cantons.size === 0
+      : state.cantons.has(code);
+    chip.setAttribute("aria-pressed", pressed ? "true" : "false");
+  });
 }
 
 // ─── Rendering ────────────────────────────────────────────────────────────
@@ -110,26 +166,48 @@ function renderList(features, emptyMsg = "No courts match these filters.") {
     return;
   }
 
-  // Group by municipality.
-  const groups = new Map();
+  // Two-level grouping: canton → municipality → items.
+  const byCanton = new Map();
+  const cantonNames = new Map();
   for (const f of features) {
-    const key = f.properties?.municipality ?? "Unknown municipality";
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(f);
+    const code = f.properties?.canton ?? "";
+    const cName = f.properties?.cantonName ?? "";
+    if (code) cantonNames.set(code, cName || code);
+    const muni = f.properties?.municipality ?? "Unknown municipality";
+    if (!byCanton.has(code)) byCanton.set(code, new Map());
+    const muniMap = byCanton.get(code);
+    if (!muniMap.has(muni)) muniMap.set(muni, []);
+    muniMap.get(muni).push(f);
   }
-  const keys = [...groups.keys()].sort((a, b) => {
-    if (a === "Unknown municipality") return 1;
-    if (b === "Unknown municipality") return -1;
-    return a.localeCompare(b);
-  });
 
-  for (const k of keys) {
-    const items = groups.get(k);
-    const header = document.createElement("li");
-    header.className = "court-group";
-    header.innerHTML = `${escapeHtml(k)}<span class="n">${items.length}</span>`;
-    els.list.appendChild(header);
-    for (const f of items) els.list.appendChild(listItem(f));
+  const cKey = (k) => (k === "" ? "\uffff" : k);
+  const cantonKeys = [...byCanton.keys()].sort((a, b) =>
+    cKey(a).localeCompare(cKey(b)),
+  );
+
+  for (const cCode of cantonKeys) {
+    const muniMap = byCanton.get(cCode);
+    const total = [...muniMap.values()].reduce((n, xs) => n + xs.length, 0);
+    const cHeader = document.createElement("li");
+    cHeader.className = "canton-group";
+    const title = cCode
+      ? `${escapeHtml(cCode)} <span class="canton-name">${escapeHtml(cantonNames.get(cCode) ?? "")}</span>`
+      : `Outside Switzerland`;
+    cHeader.innerHTML = `${title}<span class="n">${total}</span>`;
+    els.list.appendChild(cHeader);
+
+    const muniKey = (s) => (s === "Unknown municipality" ? "\uffff" : s);
+    const muniKeys = [...muniMap.keys()].sort((a, b) =>
+      muniKey(a).localeCompare(muniKey(b)),
+    );
+    for (const m of muniKeys) {
+      const items = muniMap.get(m);
+      const mHeader = document.createElement("li");
+      mHeader.className = "court-group";
+      mHeader.innerHTML = `${escapeHtml(m)}<span class="n">${items.length}</span>`;
+      els.list.appendChild(mHeader);
+      for (const f of items) els.list.appendChild(listItem(f));
+    }
   }
 }
 

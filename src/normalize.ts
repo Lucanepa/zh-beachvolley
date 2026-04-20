@@ -1,4 +1,5 @@
 import type { OverpassElement, OverpassResponse } from "./overpass.ts";
+import { cantonForPoint } from "./cantons.ts";
 
 export interface Court {
   id: string;               // "node/123" | "way/456" | "relation/789"
@@ -7,6 +8,8 @@ export interface Court {
   osmUrl: string;
   name: string | null;
   operator: string | null;
+  canton: string | null;      // ISO3166-2 suffix, e.g. "ZH"
+  cantonName: string | null;  // English name where available
   municipality: string | null;
   postcode: string | null;
   lat: number;
@@ -58,6 +61,7 @@ export function normalize(resp: OverpassResponse): Court[] {
     if (seen.has(id)) continue;
     seen.add(id);
     const tags = el.tags ?? {};
+    const canton = cantonForPoint(pos.lat, pos.lon);
     courts.push({
       id,
       osmType: el.type,
@@ -65,6 +69,8 @@ export function normalize(resp: OverpassResponse): Court[] {
       osmUrl: `https://www.openstreetmap.org/${el.type}/${el.id}`,
       name: tags.name ?? null,
       operator: tags.operator ?? null,
+      canton: canton?.code ?? null,
+      cantonName: canton?.name ?? null,
       municipality: tags["addr:city"] ?? tags["is_in:city"] ?? null,
       postcode: tags["addr:postcode"] ?? null,
       lat: pos.lat,
@@ -80,9 +86,11 @@ export function normalize(resp: OverpassResponse): Court[] {
       tags,
     });
   }
-  // Stable sort: municipality (unknown last), then name (unknown last).
+  // Stable sort: canton → municipality → name. Unknown sinks with "\uffff".
   const key = (s: string | null) => s ?? "\uffff";
   courts.sort((a, b) => {
+    const c = key(a.canton).localeCompare(key(b.canton));
+    if (c !== 0) return c;
     const m = key(a.municipality).localeCompare(key(b.municipality));
     if (m !== 0) return m;
     return key(a.name).localeCompare(key(b.name));

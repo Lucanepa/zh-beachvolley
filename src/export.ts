@@ -21,6 +21,8 @@ export function writeGeoJSON(path: string, courts: Court[]): void {
       properties: {
         name: c.name,
         operator: c.operator,
+        canton: c.canton,
+        cantonName: c.cantonName,
         municipality: c.municipality,
         access: c.access,
         indoor: c.indoor,
@@ -50,6 +52,7 @@ export function writeCSV(path: string, courts: Court[]): void {
     "id",
     "name",
     "municipality",
+    "canton",
     "postcode",
     "lat",
     "lon",
@@ -76,43 +79,75 @@ export function writeMarkdownIndex(
   meta: { fetchedAt: string },
 ): void {
   ensureDir(path);
-  const byMuni = new Map<string, Court[]>();
+
+  // Canton → Municipality → Court[]
+  const byCanton = new Map<string, Map<string, Court[]>>();
+  const cantonNames = new Map<string, string>();
+  const muniSet = new Set<string>();
   for (const c of courts) {
-    const key = c.municipality ?? "(unknown)";
-    if (!byMuni.has(key)) byMuni.set(key, []);
-    byMuni.get(key)!.push(c);
+    const cCode = c.canton ?? "??";
+    const cName = c.cantonName ?? "Outside Switzerland";
+    cantonNames.set(cCode, cName);
+    const muniKey = c.municipality ?? "(unknown municipality)";
+    muniSet.add(`${cCode}::${muniKey}`);
+    if (!byCanton.has(cCode)) byCanton.set(cCode, new Map());
+    const muniMap = byCanton.get(cCode)!;
+    if (!muniMap.has(muniKey)) muniMap.set(muniKey, []);
+    muniMap.get(muniKey)!.push(c);
   }
-  const keys = [...byMuni.keys()].sort((a, b) => a.localeCompare(b));
+
+  const cantonKey = (k: string) => (k === "??" ? "\uffff" : k);
+  const cantonKeys = [...byCanton.keys()].sort((a, b) =>
+    cantonKey(a).localeCompare(cantonKey(b)),
+  );
 
   const lines: string[] = [];
   lines.push(`# Beach volleyball courts — Greater Zurich`);
   lines.push("");
   lines.push(`_Fetched: ${meta.fetchedAt}_`);
   lines.push("");
+  const cantonCount = cantonKeys.filter((k) => k !== "??").length;
   lines.push(
-    `**${courts.length}** courts across **${keys.length}** labeled municipalities.`,
+    `**${courts.length}** courts across **${cantonCount}** cantons / **${muniSet.size}** municipalities.`,
   );
   lines.push("");
   lines.push(`Source: © OpenStreetMap contributors (ODbL 1.0).`);
   lines.push("");
 
-  for (const k of keys) {
-    const list = byMuni.get(k)!;
-    lines.push(`## ${k} (${list.length})`);
+  const muniSortKey = (s: string) =>
+    s === "(unknown municipality)" ? "\uffff" : s;
+
+  for (const cCode of cantonKeys) {
+    const muniMap = byCanton.get(cCode)!;
+    const total = [...muniMap.values()].reduce((n, xs) => n + xs.length, 0);
+    const header =
+      cCode === "??"
+        ? `## Outside Switzerland (${total} court${total === 1 ? "" : "s"})`
+        : `## ${cCode} — ${cantonNames.get(cCode)} (${total} court${total === 1 ? "" : "s"})`;
+    lines.push(header);
     lines.push("");
-    lines.push(`| Name | Access | Indoor | Surface | Coords | OSM |`);
-    lines.push(`|---|---|---|---|---|---|`);
-    for (const c of list) {
-      const name = c.name ?? "_(unnamed)_";
-      const access = c.access ?? "—";
-      const indoor = c.indoor ? "yes" : "—";
-      const surface = c.surface ?? "—";
-      const coords = `${c.lat.toFixed(5)}, ${c.lon.toFixed(5)}`;
-      lines.push(
-        `| ${name} | ${access} | ${indoor} | ${surface} | ${coords} | [link](${c.osmUrl}) |`,
-      );
+
+    const muniKeys = [...muniMap.keys()].sort((a, b) =>
+      muniSortKey(a).localeCompare(muniSortKey(b)),
+    );
+    for (const m of muniKeys) {
+      const list = muniMap.get(m)!;
+      lines.push(`### ${m} (${list.length})`);
+      lines.push("");
+      lines.push(`| Name | Access | Indoor | Surface | Coords | OSM |`);
+      lines.push(`|---|---|---|---|---|---|`);
+      for (const c of list) {
+        const name = c.name ?? "_(unnamed)_";
+        const access = c.access ?? "—";
+        const indoor = c.indoor ? "yes" : "—";
+        const surface = c.surface ?? "—";
+        const coords = `${c.lat.toFixed(5)}, ${c.lon.toFixed(5)}`;
+        lines.push(
+          `| ${name} | ${access} | ${indoor} | ${surface} | ${coords} | [link](${c.osmUrl}) |`,
+        );
+      }
+      lines.push("");
     }
-    lines.push("");
   }
 
   writeFileSync(path, lines.join("\n"), "utf8");

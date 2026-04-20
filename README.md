@@ -47,14 +47,42 @@ Covers Canton ZH with a buffer into AG, ZG, SZ, SG, TG, SH. Shrink it to just ZH
 .
 ├── src/
 │   ├── overpass.ts     # query builder + fetch (with mirror fallback)
+│   ├── cantons.ts      # point-in-polygon lookup into Swiss cantons
 │   ├── normalize.ts    # OSM → Court, centroid, dedup, sort
 │   ├── export.ts       # writers: json / geojson / csv / md
+│   ├── smoke.test.ts   # offline sanity check
 │   └── main.ts         # orchestrator
-├── data/               # outputs land here
-├── .github/workflows/
-│   └── refresh.yml     # weekly cron: re-fetch and auto-commit
+├── scripts/
+│   ├── fetch-cantons.mjs  # one-shot: pull cantons from Overpass
+│   └── build-site.mjs     # copies data/courts.geojson → site/
+├── site/                  # static Leaflet viewer
+├── data/
+│   ├── courts.geojson
+│   ├── courts.csv
+│   ├── INDEX.md
+│   └── swiss-cantons.geojson   # committed; rebuilt by fetch-cantons.mjs
+├── .github/workflows/refresh.yml
 └── package.json
 ```
+
+## Swiss cantons
+
+Every court is tagged with its canton via a point-in-polygon join against
+[`data/swiss-cantons.geojson`][cantons]. That file is committed — canton
+boundaries don't meaningfully move. Regenerate only if you need fresher
+geometry or want to fix a bad boundary:
+
+```bash
+node scripts/fetch-cantons.mjs
+```
+
+This hits Overpass for `admin_level=4` relations inside `ISO3166-1="CH"`,
+converts them to a GeoJSON `MultiPolygon` FeatureCollection (via the
+`osmtogeojson` dev dep) and simplifies with `@turf/simplify` (tolerance
+~0.001 ≈ 100 m at Swiss latitudes — plenty for a PIP test). Expect ~25
+KB per canton after simplification (~230 KB total).
+
+[cantons]: data/swiss-cantons.geojson
 
 ## Automated refresh
 

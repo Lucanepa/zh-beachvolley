@@ -146,6 +146,28 @@ a:hover { text-decoration-color: var(--clay); }
   gap: 8px;
   margin-top: 12px;
 }
+.canton-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--rule);
+}
+.canton-row:empty, .canton-row[hidden] { display: none; }
+.chip-canton {
+  padding: 5px 9px;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+}
+.chip-canton .n {
+  font-family: var(--font-mono);
+  margin-left: 6px;
+  color: var(--muted);
+  font-size: 10px;
+}
+.chip-canton[aria-pressed="true"] .n { color: var(--paper-2); }
+.chip-canton-all { font-weight: 500; }
 .chip {
   font: 500 12px/1 var(--font-mono);
   letter-spacing: 0.04em;
@@ -192,18 +214,45 @@ a:hover { text-decoration-color: var(--clay); }
   overflow-y: auto;
   flex: 1;
 }
-.court-group {
+.canton-group {
   font-family: var(--font-display);
-  font-weight: 500;
-  font-size: 17px;
-  letter-spacing: 0.01em;
-  padding: 14px 24px 6px;
+  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: -0.005em;
+  padding: 22px 24px 10px;
   color: var(--ink);
   border-bottom: var(--rule-hairline);
   background: var(--paper);
   position: sticky;
   top: 0;
   z-index: 1;
+  font-variation-settings: "opsz" 48;
+}
+.canton-group .canton-name {
+  font-weight: 400;
+  font-style: italic;
+  color: var(--ink-2);
+  margin-left: 4px;
+  font-size: 16px;
+}
+.canton-group .n {
+  float: right;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 9px;
+  letter-spacing: 0.06em;
+  font-weight: 400;
+}
+.court-group {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  padding: 10px 24px 4px 36px;
+  color: var(--ink-2);
+  border-bottom: var(--rule-hairline);
+  background: var(--paper);
 }
 .court-group .n {
   font-family: var(--font-mono);
@@ -212,6 +261,7 @@ a:hover { text-decoration-color: var(--clay); }
   margin-left: 6px;
   letter-spacing: 0.06em;
 }
+.court { padding-left: 36px; }
 .court {
   padding: 14px 24px;
   border-bottom: var(--rule-hairline);
