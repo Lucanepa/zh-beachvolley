@@ -61,7 +61,11 @@ export async function fetchOverpass(query: string): Promise<OverpassResponse> {
     try {
       const res = await fetch(endpoint, {
         method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "User-Agent": "zh-beachvolley/0.1 (https://github.com/Lucanepa/zh-beachvolley)",
+          "Accept": "application/json",
+        },
         body,
       });
       if (!res.ok) {

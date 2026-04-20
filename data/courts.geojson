@@ -1,0 +1,6180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/264198994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632231,
+          47.25009868
+        ]
+      },
+      "properties": {
+        "name": "Beach Volleyball Court Au",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/264198994"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674503538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54199064,
+          47.3357871
+        ]
+      },
+      "properties": {
+        "name": "beach volleyball court Fischer's Fritz",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674503538"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264195133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.599490980000002,
+          47.256540539999996
+        ]
+      },
+      "properties": {
+        "name": "beach volleyball court Rainweg",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/264195133"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381085547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74488212,
+          47.495006079999996
+        ]
+      },
+      "properties": {
+        "name": "Beach Volleyball-Feld",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": false,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": "Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",
+        "osmUrl": "https://www.openstreetmap.org/way/381085547"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/489129650",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74499172,
+          47.49490878
+        ]
+      },
+      "properties": {
+        "name": "Beach Volleyball-Feld",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": "Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",
+        "osmUrl": "https://www.openstreetmap.org/way/489129650"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/489129652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.745099720000002,
+          47.49481448
+        ]
+      },
+      "properties": {
+        "name": "Beach Volleyball-Feld",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": "Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",
+        "osmUrl": "https://www.openstreetmap.org/way/489129652"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163560586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705369220000001,
+          47.18848486
+        ]
+      },
+      "properties": {
+        "name": "Beachsportanlage",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/163560586"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1176166149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52061196,
+          47.31141744
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1176166149"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178308564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67169612,
+          47.59627816
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1178308564"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1227330063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.542272700000002,
+          47.289284959999996
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1227330063"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179196884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68083316,
+          47.38534578
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball Gries",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/179196884"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674506153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.474769319999998,
+          47.39760862
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball Juchhof 1",
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674506153"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/852468608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541382016666667,
+          47.41748021666666
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball Neunbrunnenstrasse",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/852468608"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674186503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52658066,
+          47.36909212
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball Sihlhölzli",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674186503"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1165021764",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79251926,
+          47.55161016
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyball-Anlage",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1165021764"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43303762",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.524782400000001,
+          47.17343666000001
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/43303762"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1445447809",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71778354,
+          47.30928304
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1445447809"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675066796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31218764,
+          47.37598422000001
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Campingplatz Sulz",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675066796"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40231966",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.625359940000001,
+          47.39328958
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Freibad Oberdorf",
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/40231966"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442559353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54571976,
+          47.42425518
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Freibad Seebach",
+        "operator": "Freibad Seebach",
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/442559353"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285303275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47615602,
+          47.409424959999996
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Freibad zwischen den Hölzern",
+        "operator": "Freibad Zwischen den Hölzern",
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/285303275"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674613630",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.509826900000002,
+          47.42149278
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Fronwald",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674613630"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675068517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45810984,
+          47.39661592
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld im Moos",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675068517"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675062214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31668526,
+          47.45708074
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Kantonsschule Wettingen",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675062214"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675062215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.316552820000002,
+          47.457003580000006
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Kantonsschule Wettingen",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675062215"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245489522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80060248,
+          47.31580192
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Meierwiesen",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/245489522"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245489528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80051294,
+          47.31570172000001
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Meierwiesen",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/245489528"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245489532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8004234,
+          47.31560154
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Meierwiesen",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/245489532"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675067589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.39177114,
+          47.30979362
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Oberlunkhofen",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675067589"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122972896",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55688302,
+          47.31081896
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Rüschlikon",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/122972896"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121039007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.355978780000001,
+          47.34846288
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schule Zufikon",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/121039007"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675066937",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.355957440000001,
+          47.34856884
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schule Zufikon",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675066937"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245637795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54184036,
+          47.42016162
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schulhaus Buhnrain",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/245637795"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675067285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.39130444,
+          47.33847288
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schulhaus Falter",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675067285"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675066736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.32745972,
+          47.38820955999999
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schulhaus Künten",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675066736"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675066737",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.32761942,
+          47.38805076
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schulhaus Künten",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675066737"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674614911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.579759319999999,
+          47.40186562
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schulhaus Stettbach",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674614911"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/673146865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9127771,
+          47.27860158
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Schwimmbad Wald",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/673146865"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435412982",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66401056,
+          47.236255920000005
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Seegüetli",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/435412982"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226526029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846627571428572,
+          47.2605579
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Sekundarschule Rüti",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/226526029"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226528809",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69319342,
+          47.34010126
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Strandbad Uster",
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/226528809"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674617377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693103019999999,
+          47.340185979999994
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfeld Strandbad Uster",
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674617377"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206261640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.947898259999999,
+          47.222377040000005
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballfelder",
+        "operator": "Hallen- & Seebad Schmerikon",
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/206261640"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221437131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.690628659999998,
+          47.79259648
+        ]
+      },
+      "properties": {
+        "name": "Beachvolleyballplatz",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1221437131"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/935524127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.490778259999999,
+          47.190980780000004
+        ]
+      },
+      "properties": {
+        "name": "Feld 1",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/935524127"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/935524128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4909126,
+          47.1908538
+        ]
+      },
+      "properties": {
+        "name": "Feld 2",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/935524128"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40870110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59223356,
+          47.4031631
+        ]
+      },
+      "properties": {
+        "name": "Heerenschürli AW12",
+        "operator": "Stadt Zürich, SSD, Sportamt",
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/40870110"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232384717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.787308640000001,
+          47.358315340000004
+        ]
+      },
+      "properties": {
+        "name": "Volleyball",
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/232384717"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10095472991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6834272,
+          47.5118794
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/node/10095472991"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10795656713",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.755028,
+          47.6894517
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/node/10795656713"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/5058649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705753159999999,
+          47.483886440000006
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/5058649"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25787340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62159492,
+          47.70492598
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/25787340"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25787464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.606877800000001,
+          47.677935319999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/25787464"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28398310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4694623,
+          47.53356186
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/28398310"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28662059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566184340000001,
+          47.42323644
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/28662059"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29374682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.534655879999999,
+          47.38609684000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/29374682"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34754750",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.815681799999998,
+          47.22291722
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/34754750"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35168677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679155399999999,
+          47.26338738
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/35168677"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35478496",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70549718,
+          47.212038240000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/35478496"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/63067794",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70860604,
+          47.47319372
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/63067794"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/66363711",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73507972,
+          47.12133854
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/66363711"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71439351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4824402,
+          47.74583051999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/71439351"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87813287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53999302,
+          47.40419412
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/87813287"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92119398",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55672518,
+          47.29362554
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/92119398"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95033575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.39414164,
+          47.1150989
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/95033575"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95676047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470867660000001,
+          47.32131038
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/95676047"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107536339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70878738,
+          47.47320222
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/107536339"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120059385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7684817,
+          47.740765716666665
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/120059385"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127048895",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42752488,
+          47.26201698
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/127048895"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127049275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.524331759999999,
+          47.38594326
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/127049275"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135309323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.706806140000001,
+          47.24638932
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/135309323"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136505911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.791410799999998,
+          47.50253712
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/136505911"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136505916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.700913179999999,
+          47.420751880000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/136505916"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136505929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73428854,
+          47.53974632
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/136505929"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147985492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31059598,
+          47.46537291999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/147985492"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147985493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31094714,
+          47.465261860000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/147985493"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147985609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31037336,
+          47.46562704
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/147985609"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158527285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.581994133333334,
+          47.44364436666666
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/158527285"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158527293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58191608,
+          47.44357042
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/158527293"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161698932",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46837656,
+          47.18108152
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/161698932"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165256015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78886402,
+          47.55122408
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/165256015"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165353931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.735786460000002,
+          47.50447916
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/165353931"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170472319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64292092,
+          47.509487179999994
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/170472319"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173382416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.712361079999999,
+          47.550402
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/173382416"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175818949",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.751544759999998,
+          47.51020414
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/175818949"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/180134281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67237104,
+          47.530873220000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/180134281"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192773489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59342632,
+          47.13315218
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/192773489"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195667477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84489404,
+          47.220152580000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/195667477"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195667489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84513068,
+          47.2203644
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/195667489"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198642481",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75196074,
+          47.12778754
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/198642481"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200087360",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.703215199999999,
+          47.75301178
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/200087360"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200970510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76078914,
+          47.51609234
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/200970510"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203232346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89432664,
+          47.552262840000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/203232346"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204594452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86491234,
+          47.72039138
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/204594452"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205940968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69833776,
+          47.44600802000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "permissive",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/205940968"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211443383",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67858776,
+          47.447101319999994
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/211443383"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211912495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40841188,
+          47.62502438
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/211912495"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212719009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.30722576,
+          47.583498320000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/212719009"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216426451",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673453314285712,
+          47.10512265714285
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/216426451"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229725497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.715093499999998,
+          47.514195740000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/229725497"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229862139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.96499848,
+          47.7150538
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/229862139"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230058061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.762788420000001,
+          47.68861506
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/230058061"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235550010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.725942040000001,
+          47.49547404
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/235550010"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236019408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93280778,
+          47.345792100000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/236019408"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249468959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845851219999998,
+          47.427542460000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/249468959"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255533160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45623488,
+          47.47995016
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/255533160"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257599801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.32372718,
+          47.154961400000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/257599801"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258674305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87298472,
+          47.48186112
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/258674305"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259082313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9063804,
+          47.500078159999994
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/259082313"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260204562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65013678,
+          47.570523359999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/260204562"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263479925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.511587940000002,
+          47.40665892
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/263479925"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272345373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998288339999998,
+          47.72805032
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/272345373"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/273892392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.88854886,
+          47.205076760000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/273892392"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275863206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494057339999998,
+          47.177149240000006
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/275863206"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275863207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49446432,
+          47.177124060000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/275863207"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288998599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67396758,
+          47.40257998
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/288998599"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289033615",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768358300000001,
+          47.7406963
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/289033615"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291114318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76386802,
+          47.282201439999994
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/291114318"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291682596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37665786,
+          47.49908288
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/291682596"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293828594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.477813780000002,
+          47.38073197999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": "Stadt Zürich, SSD, Sportamt",
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/293828594"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293829439",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60884234,
+          47.40484328
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/293829439"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295475506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65024724,
+          47.63023948
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/295475506"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301167455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85292488,
+          47.1978809
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/301167455"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/306597211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.711708179999999,
+          47.242249
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/306597211"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/306742800",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.36857038,
+          47.36835276
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/306742800"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307493253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78890364,
+          47.52866540000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/307493253"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308326181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46884996,
+          47.24039056
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/308326181"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309699738",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45205098,
+          47.169160319999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/309699738"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314121958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53689492,
+          47.513952239999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/314121958"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314231103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42680326,
+          47.65249394
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/314231103"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315049697",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84054802,
+          47.261838239999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/315049697"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315560691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64943188,
+          47.719422699999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/315560691"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325830426",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.459102560000002,
+          47.27817766
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/325830426"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327096646",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.30278402,
+          47.33307628
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/327096646"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328806221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538835839999999,
+          47.24115204
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/328806221"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/354486039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72803698,
+          47.61277108
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/354486039"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355773730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.369029219999998,
+          47.354071520000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/355773730"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356369483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.314892140000001,
+          47.470191060000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/356369483"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366648155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57442704,
+          47.38307618
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/366648155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366648156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.574209040000001,
+          47.3828632
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/366648156"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370498739",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77000098,
+          47.43645239999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/370498739"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385619138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58388554,
+          47.310390999999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/385619138"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385620179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58562116,
+          47.31365132
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/385620179"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/390097860",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49664564,
+          47.37157478
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/390097860"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399665699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.950185480000002,
+          47.52295468
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/399665699"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/401660516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89572216,
+          47.55021568000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/401660516"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/401660517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8959089,
+          47.550214800000006
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/401660517"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/406267588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693347020000001,
+          47.2992534
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/406267588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441275723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.943820400000002,
+          47.72281968
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/441275723"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/466468759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49275466,
+          47.559782
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/466468759"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/468488484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.388484700000001,
+          47.40745514
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/468488484"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/484368410",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.43201652,
+          47.56727638
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/484368410"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/485022371",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.319031960000002,
+          47.624254099999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/485022371"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/488939065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45188156,
+          47.16915782
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/488939065"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/488956427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46825976,
+          47.18100988
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/488956427"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/527603340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9833368,
+          47.738579279999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/527603340"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/532603474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492104,
+          47.5180883
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/532603474"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/537527902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77400818,
+          47.76424114
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/537527902"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/538009461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.550124180000001,
+          47.5184983
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/538009461"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/549145998",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89989974,
+          47.18143648
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/549145998"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/549389284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3015984,
+          47.74566984
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/549389284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/568519672",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67551866,
+          47.59950364
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/568519672"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581831283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.582193016666666,
+          47.44334706666667
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/581831283"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581831284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.582009766666667,
+          47.443442483333335
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/581831284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/593786144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.789389279999998,
+          47.79041114
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/593786144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/600697301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6216814,
+          47.33072846
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/600697301"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/604239101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.29993552,
+          47.42017748
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/604239101"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/607623382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.344498300000001,
+          47.345887579999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/607623382"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/612348461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6579834,
+          47.6867042
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/612348461"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/615941818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89097958,
+          47.655166060000006
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/615941818"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/661689900",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61805646,
+          47.2549516
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/661689900"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674201418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53986368,
+          47.40414189999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674201418"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674201419",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5397105,
+          47.40407906
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674201419"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674201420",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53953946,
+          47.40401252
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674201420"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674496431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53403108,
+          47.4087947
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674496431"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674500110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5349444,
+          47.385910849999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674500110"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674501276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.477815500000002,
+          47.3808285
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": "Stadt Zürich, SSD, Sportamt",
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674501276"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674501277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47781766,
+          47.38094916
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": "Stadt Zürich, SSD, Sportamt",
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674501277"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674502355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.574612080000001,
+          47.38291188
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": true,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674502355"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674505454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5335801,
+          47.34047334
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674505454"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674506157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.48995832,
+          47.405281880000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674506157"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674612280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.511495120000001,
+          47.40674526
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674612280"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674615142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.623711140000001,
+          47.42319338
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674615142"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674619760",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.581732933333333,
+          47.44354811666667
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674619760"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/674619761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58232462,
+          47.44328370000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/674619761"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675062134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.372833120000001,
+          47.4430451
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675062134"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675062135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3729826,
+          47.44298564
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/675062135"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/744718752",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57559558,
+          47.27542074
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/744718752"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/798212249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8430352,
+          47.75312577999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/798212249"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/814934146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.432022139999999,
+          47.3542805
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/814934146"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/821770391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49193644,
+          47.26952532
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/821770391"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/836339467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81965044,
+          47.1947384
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/836339467"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/837114828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59792748,
+          47.60866462
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/837114828"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/837563413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7571914,
+          47.389668140000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/837563413"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/846047490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.819813540000002,
+          47.25884218
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/846047490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/846048152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845063300000001,
+          47.220150479999994
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/846048152"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/846048153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84525206,
+          47.22014660000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/846048153"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/846048154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84513366,
+          47.220479260000005
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/846048154"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/846048155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845136720000001,
+          47.22059892
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/846048155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/846052367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75781676,
+          47.207309280000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "grass",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/846052367"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/853264811",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.97549256,
+          47.168440520000004
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/853264811"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/882762506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9736282,
+          47.66369986
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/882762506"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/885039203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72545602,
+          47.36106284
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/885039203"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/885039204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.725377260000002,
+          47.3609631
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/885039204"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/885039205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.725300039999999,
+          47.3608701
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/885039205"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/950118139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683467480000001,
+          47.51181378
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/950118139"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/951792716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64931718,
+          47.24345026
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "private",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/951792716"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/963176924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5825919,
+          47.31993860000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/963176924"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/964862269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40073648,
+          47.699601740000006
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/964862269"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/966797534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58284162,
+          47.34503746
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/966797534"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/969494754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.616864520000002,
+          47.66687444
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/969494754"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/970853535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67918448,
+          47.26351146
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/970853535"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/972550323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.995032779999999,
+          47.1873248
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "private",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/972550323"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/979362281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.749009000000001,
+          47.20010218
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/979362281"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1026138501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98087986,
+          47.679594779999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1026138501"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1043084212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.583012960000001,
+          47.34508906
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1043084212"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1043084582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.582790771428572,
+          47.32002101428572
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1043084582"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1043115524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9001883,
+          47.18143516000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1043115524"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1046864455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.530750833333334,
+          47.199869416666665
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1046864455"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1055032633",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93691314,
+          47.65966992
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1055032633"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1055462053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.939834979999999,
+          47.5307626
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1055462053"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1069871271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.33357024,
+          47.461607619999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1069871271"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1071282273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59511198,
+          47.41807796
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "customers",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1071282273"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1078456188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65292862,
+          47.33831692
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1078456188"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1083775872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8199481,
+          47.25889788
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1083775872"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1093827909",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53833788,
+          47.60620834
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1093827909"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1118428869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68008604,
+          47.21802362
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": "ZHAW",
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "grass",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1118428869"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1131220944",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.723991600000002,
+          47.358495399999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1131220944"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1156142789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.591838240000001,
+          47.179226760000006
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": "yes",
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1156142789"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1159350299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42796046,
+          47.26630944
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1159350299"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1162411380",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.663423,
+          47.35328554
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1162411380"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1174706648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85270194,
+          47.272853999999995
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1174706648"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1179938547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99706252,
+          47.68743418
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1179938547"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1181705729",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680726179999999,
+          47.376191139999996
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1181705729"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1181705730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68060684,
+          47.37603644
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1181705730"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1216260236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.536061319999998,
+          47.14465851999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1216260236"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221891167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.435430180000001,
+          47.77709852
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": null,
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1221891167"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1249001276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991989900000002,
+          47.72965402000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1249001276"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266062347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.904325140000001,
+          47.5555396
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": false,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1266062347"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1306189168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.34273742,
+          47.32996614
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1306189168"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356936589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.788298900000001,
+          47.19911864
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1356936589"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356936590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78837996,
+          47.19900958
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1356936590"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373171355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.714554699999999,
+          47.50275112
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1373171355"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373171356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.714421859999998,
+          47.50279551999999
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1373171356"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373171357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.714289399999998,
+          47.50283932000001
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1373171357"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1395854112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.610312019999999,
+          47.13404726
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1395854112"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1421760596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99496246,
+          47.47185354
+        ]
+      },
+      "properties": {
+        "name": null,
+        "operator": null,
+        "municipality": null,
+        "access": null,
+        "indoor": false,
+        "fee": null,
+        "surface": "sand",
+        "lit": null,
+        "website": null,
+        "phone": null,
+        "openingHours": null,
+        "osmUrl": "https://www.openstreetmap.org/way/1421760596"
+      }
+    }
+  ]
+}

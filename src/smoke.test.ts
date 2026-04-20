@@ -1,4 +1,5 @@
 import { normalize } from "./normalize.ts";
+import type { OverpassResponse } from "./overpass.ts";
 import {
   writeCSV,
   writeGeoJSON,
@@ -7,7 +8,7 @@ import {
 } from "./export.ts";
 import { mkdirSync, readFileSync, rmSync } from "node:fs";
 
-const fake = {
+const fake: OverpassResponse = {
   version: 0.6,
   generator: "fake",
   elements: [

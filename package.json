@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "fetch": "tsx src/main.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:site": "node scripts/build-site.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.9.0",
