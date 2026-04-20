@@ -122,8 +122,8 @@ beach volleyball edit in the Greater Zurich bbox:
 ```
 [out:json][timeout:60];
 (
-  nwr["sport"="beach_volleyball"](newer:"P14D")(47.1,8.3,47.8,9.0);
-  nwr["sport"="beachvolleyball"](newer:"P14D")(47.1,8.3,47.8,9.0);
+  nwr["sport"="beach_volleyball"](newer:"P14D")(47.15,8.37,47.71,8.99);
+  nwr["sport"="beachvolleyball"](newer:"P14D")(47.15,8.37,47.71,8.99);
 );
 out geom;
 ```
@@ -131,7 +131,7 @@ out geom;
 Run it on [overpass-turbo.eu][otb] — it shows results on the map and
 flags anything your changeset introduced.
 
-[otb]: https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3B%0A(%0A%20%20nwr%5B%22sport%22%3D%22beach_volleyball%22%5D(newer%3A%22P14D%22)(47.1%2C8.3%2C47.8%2C9.0)%3B%0A%20%20nwr%5B%22sport%22%3D%22beachvolleyball%22%5D(newer%3A%22P14D%22)(47.1%2C8.3%2C47.8%2C9.0)%3B%0A)%3B%0Aout%20geom%3B&R
+[otb]: https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3B%0A(%0A%20%20nwr%5B%22sport%22%3D%22beach_volleyball%22%5D(newer%3A%22P14D%22)(47.15%2C8.37%2C47.71%2C8.99)%3B%0A%20%20nwr%5B%22sport%22%3D%22beachvolleyball%22%5D(newer%3A%22P14D%22)(47.15%2C8.37%2C47.71%2C8.99)%3B%0A)%3B%0Aout%20geom%3B&R
 
 ## References
 

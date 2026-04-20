@@ -1,0 +1,1017 @@
+{
+  "47.25010,8.63223": {
+    "road": "Seeweg",
+    "suburb": null,
+    "municipality": "Wädenswil",
+    "postcode": "8820",
+    "state": "Zürich"
+  },
+  "47.33579,8.54199": {
+    "road": "Horngasse",
+    "suburb": null,
+    "municipality": "Kilchberg",
+    "postcode": "8802",
+    "state": "Zürich"
+  },
+  "47.25654,8.59949": {
+    "road": "Berghaldenweg",
+    "suburb": null,
+    "municipality": "Horgen",
+    "postcode": "8810",
+    "state": "Zürich"
+  },
+  "47.49501,8.74488": {
+    "road": "Oberer Deutweg",
+    "suburb": "Deutweg",
+    "municipality": "Winterthur",
+    "postcode": "8411",
+    "state": "Zürich"
+  },
+  "47.49491,8.74499": {
+    "road": "Oberer Deutweg",
+    "suburb": "Deutweg",
+    "municipality": "Winterthur",
+    "postcode": "8411",
+    "state": "Zürich"
+  },
+  "47.49481,8.74510": {
+    "road": "Oberer Deutweg",
+    "suburb": "Deutweg",
+    "municipality": "Winterthur",
+    "postcode": "8411",
+    "state": "Zürich"
+  },
+  "47.31142,8.52061": {
+    "road": "Sonnenbergstrasse",
+    "suburb": "Hofern",
+    "municipality": "Adliswil",
+    "postcode": "8134",
+    "state": "Zürich"
+  },
+  "47.59628,8.67170": {
+    "road": "Schwellistrasse",
+    "suburb": null,
+    "municipality": "Andelfingen",
+    "postcode": "8450",
+    "state": "Zürich"
+  },
+  "47.28928,8.54227": {
+    "road": "Breitwiesstrasse",
+    "suburb": "Hel",
+    "municipality": "Langnau am Albis",
+    "postcode": "8135",
+    "state": "Zürich"
+  },
+  "47.38535,8.68083": {
+    "road": "Usterstrasse",
+    "suburb": null,
+    "municipality": "Volketswil",
+    "postcode": "8604",
+    "state": "Zürich"
+  },
+  "47.39761,8.47477": {
+    "road": "Bernerstrasse",
+    "suburb": "Altstetten",
+    "municipality": "Zürich",
+    "postcode": "8064",
+    "state": "Zürich"
+  },
+  "47.41748,8.54138": {
+    "road": "Weisshau",
+    "suburb": "Seebach",
+    "municipality": "Zürich",
+    "postcode": "8052",
+    "state": "Zürich"
+  },
+  "47.36909,8.52658": {
+    "road": "Manessestrasse",
+    "suburb": "Kreis 3",
+    "municipality": "Zürich",
+    "postcode": "8002",
+    "state": "Zürich"
+  },
+  "47.55161,8.79252": {
+    "road": "Austrasse",
+    "suburb": null,
+    "municipality": "Rickenbach ZH",
+    "postcode": "8545",
+    "state": "Zürich"
+  },
+  "47.30928,8.71778": {
+    "road": "Rällikerstrasse",
+    "suburb": null,
+    "municipality": "Mönchaltorf",
+    "postcode": "8617",
+    "state": "Zürich"
+  },
+  "47.39329,8.62536": {
+    "road": "Eichstockweg",
+    "suburb": "Eichstock",
+    "municipality": "Dübendorf",
+    "postcode": "8600",
+    "state": "Zürich"
+  },
+  "47.42426,8.54572": {
+    "road": "Am Katzenbach",
+    "suburb": "Seebach",
+    "municipality": "Zürich",
+    "postcode": "8052",
+    "state": "Zürich"
+  },
+  "47.40942,8.47616": {
+    "road": "Frankentalerstrasse",
+    "suburb": "Höngg",
+    "municipality": "Zürich",
+    "postcode": "8102",
+    "state": "Zürich"
+  },
+  "47.42149,8.50983": {
+    "road": "Kunzweg",
+    "suburb": "Affoltern",
+    "municipality": "Zürich",
+    "postcode": "8046",
+    "state": "Zürich"
+  },
+  "47.39662,8.45811": {
+    "road": "Schulstrasse",
+    "suburb": null,
+    "municipality": "Schlieren",
+    "postcode": "8952",
+    "state": "Zürich"
+  },
+  "47.31580,8.80060": {
+    "road": "Meierwiesen",
+    "suburb": "Oberwetzikon",
+    "municipality": "Wetzikon ZH",
+    "postcode": "8620",
+    "state": "Zürich"
+  },
+  "47.31570,8.80051": {
+    "road": "Meierwiesen",
+    "suburb": "Oberwetzikon",
+    "municipality": "Wetzikon ZH",
+    "postcode": "8620",
+    "state": "Zürich"
+  },
+  "47.31560,8.80042": {
+    "road": "Meierwiesen",
+    "suburb": "Oberwetzikon",
+    "municipality": "Wetzikon ZH",
+    "postcode": "8620",
+    "state": "Zürich"
+  },
+  "47.31082,8.55688": {
+    "road": "Seestrasse",
+    "suburb": null,
+    "municipality": "Rüschlikon",
+    "postcode": "8803",
+    "state": "Zürich"
+  },
+  "47.42016,8.54184": {
+    "road": "Höhenring",
+    "suburb": "Seebach",
+    "municipality": "Zürich",
+    "postcode": "8052",
+    "state": "Zürich"
+  },
+  "47.40187,8.57976": {
+    "road": "Dübendorfstrasse",
+    "suburb": "Kreis 12",
+    "municipality": "Zürich",
+    "postcode": "8051",
+    "state": "Zürich"
+  },
+  "47.27860,8.91278": {
+    "road": "Werkstrasse",
+    "suburb": null,
+    "municipality": "Wald",
+    "postcode": "8636",
+    "state": "Zürich"
+  },
+  "47.23626,8.66401": {
+    "road": "Seeweg",
+    "suburb": null,
+    "municipality": "Wädenswil",
+    "postcode": "8820",
+    "state": "Zürich"
+  },
+  "47.26056,8.84663": {
+    "road": "Schanzweg",
+    "suburb": null,
+    "municipality": "Rüti (ZH)",
+    "postcode": "8632",
+    "state": "Zürich"
+  },
+  "47.34010,8.69319": {
+    "road": "Uferweg",
+    "suburb": "Niederuster",
+    "municipality": "Uster",
+    "postcode": "9610",
+    "state": "Zürich"
+  },
+  "47.34019,8.69310": {
+    "road": "Uferweg",
+    "suburb": "Niederuster",
+    "municipality": "Uster",
+    "postcode": "9610",
+    "state": "Zürich"
+  },
+  "47.40316,8.59223": {
+    "road": "Helen-Keller-Strasse",
+    "suburb": "Kreis 12",
+    "municipality": "Zürich",
+    "postcode": "8301",
+    "state": "Zürich"
+  },
+  "47.35832,8.78731": {
+    "road": "Baumenstrasse",
+    "suburb": "Güüch",
+    "municipality": "Pfäffikon ZH",
+    "postcode": "8330",
+    "state": "Zürich"
+  },
+  "47.51188,8.68343": {
+    "road": "Johannes-Beugger-Strasse",
+    "suburb": "Wülflingen",
+    "municipality": "Winterthur",
+    "postcode": "8408",
+    "state": "Zürich"
+  },
+  "47.48389,8.70575": {
+    "road": "Auwiesenstrasse",
+    "suburb": "Töss",
+    "municipality": "Winterthur",
+    "postcode": "8406",
+    "state": "Zürich"
+  },
+  "47.53356,8.46946": {
+    "road": "Neuwisstrasse",
+    "suburb": null,
+    "municipality": "Stadel",
+    "postcode": "8174",
+    "state": "Zürich"
+  },
+  "47.42324,8.56618": {
+    "road": "Piccard-Platz",
+    "suburb": "Glattpark",
+    "municipality": "Glattbrugg",
+    "postcode": "8152",
+    "state": "Zürich"
+  },
+  "47.38610,8.53466": {
+    "road": "Lux-Guyer-Weg",
+    "suburb": "Unterstrass",
+    "municipality": "Zürich",
+    "postcode": "8031",
+    "state": "Zürich"
+  },
+  "47.26339,8.67916": {
+    "road": "Bachweg",
+    "suburb": null,
+    "municipality": "Uetikon am See",
+    "postcode": "8707",
+    "state": "Zürich"
+  },
+  "47.21204,8.70550": {
+    "road": "Hornstrasse",
+    "suburb": null,
+    "municipality": "Richterswil",
+    "postcode": "8805",
+    "state": "Zürich"
+  },
+  "47.47319,8.70861": {
+    "road": "Reitplatzstrasse",
+    "suburb": "Stadt",
+    "municipality": "Winterthur",
+    "postcode": "8406",
+    "state": "Zürich"
+  },
+  "47.40419,8.53999": {
+    "road": "Allenmoosstrasse",
+    "suburb": "Unterstrass",
+    "municipality": "Zürich",
+    "postcode": "8057",
+    "state": "Zürich"
+  },
+  "47.29363,8.55673": {
+    "road": null,
+    "suburb": "Sonnenberg",
+    "municipality": "Thalwil",
+    "postcode": "8800",
+    "state": "Zürich"
+  },
+  "47.32131,8.47087": {
+    "road": "Stegmattenweg",
+    "suburb": "Schachen",
+    "municipality": "Bonstetten",
+    "postcode": "8906",
+    "state": "Zürich"
+  },
+  "47.47320,8.70879": {
+    "road": "Reitplatzstrasse",
+    "suburb": "Stadt",
+    "municipality": "Winterthur",
+    "postcode": "8406",
+    "state": "Zürich"
+  },
+  "47.26202,8.42752": {
+    "road": "Lindenmatt",
+    "suburb": null,
+    "municipality": "Obfelden",
+    "postcode": "8912",
+    "state": "Zürich"
+  },
+  "47.38594,8.52433": {
+    "road": "Josefstrasse",
+    "suburb": "Industriequartier",
+    "municipality": "Zürich",
+    "postcode": "8005",
+    "state": "Zürich"
+  },
+  "47.24639,8.70681": {
+    "road": "Ziegelhüttenweg",
+    "suburb": "Äberli",
+    "municipality": "Männedorf",
+    "postcode": "8708",
+    "state": "Zürich"
+  },
+  "47.50254,8.79141": {
+    "road": "Chännerwisstrasse",
+    "suburb": null,
+    "municipality": "Rümikon",
+    "postcode": "8352",
+    "state": "Zürich"
+  },
+  "47.42075,8.70091": {
+    "road": "Sportplatzstrasse",
+    "suburb": "Rikon",
+    "municipality": "Illnau-Effretikon",
+    "postcode": "8307",
+    "state": "Zürich"
+  },
+  "47.53975,8.73429": {
+    "road": "Welsikonerstrasse",
+    "suburb": null,
+    "municipality": "Seuzach",
+    "postcode": "8472",
+    "state": "Zürich"
+  },
+  "47.44364,8.58199": {
+    "road": "Schwimmbadstrasse",
+    "suburb": null,
+    "municipality": "Kloten",
+    "postcode": "8302",
+    "state": "Zürich"
+  },
+  "47.44357,8.58192": {
+    "road": "Schwimmbadstrasse",
+    "suburb": null,
+    "municipality": "Kloten",
+    "postcode": "8302",
+    "state": "Zürich"
+  },
+  "47.55122,8.78886": {
+    "road": "Schwimmbadstrasse",
+    "suburb": null,
+    "municipality": "Rickenbach ZH",
+    "postcode": "8545",
+    "state": "Zürich"
+  },
+  "47.50448,8.73579": {
+    "road": "Oststrasse",
+    "suburb": "Rychenberg",
+    "municipality": "Winterthur",
+    "postcode": "8402",
+    "state": "Zürich"
+  },
+  "47.50949,8.64292": {
+    "road": "Reckholdernstrasse",
+    "suburb": null,
+    "municipality": "Pfungen",
+    "postcode": "8422",
+    "state": "Zürich"
+  },
+  "47.55040,8.71236": {
+    "road": "Schwimmbadstrasse",
+    "suburb": null,
+    "municipality": "Hettlingen",
+    "postcode": "8442",
+    "state": "Zürich"
+  },
+  "47.51020,8.75154": {
+    "road": "Bäumlistrasse",
+    "suburb": "Oberes Bühl",
+    "municipality": "Winterthur",
+    "postcode": "8404",
+    "state": "Zürich"
+  },
+  "47.53087,8.67237": {
+    "road": "Seuzachstrasse",
+    "suburb": null,
+    "municipality": "Aesch (Neftenbach)",
+    "postcode": "8413",
+    "state": "Zürich"
+  },
+  "47.51609,8.76079": {
+    "road": "Arvenweg",
+    "suburb": "Pfaffenwiesen",
+    "municipality": "Winterthur",
+    "postcode": "8404",
+    "state": "Zürich"
+  },
+  "47.44601,8.69834": {
+    "road": "Badstrasse",
+    "suburb": "Grafstal",
+    "municipality": "Grafstal",
+    "postcode": "8310",
+    "state": "Zürich"
+  },
+  "47.44710,8.67859": {
+    "road": "Holzgatter",
+    "suburb": "Lindau",
+    "municipality": "Winterberg ZH",
+    "postcode": "8315",
+    "state": "Zürich"
+  },
+  "47.51420,8.71509": {
+    "road": "Rütihofstrasse",
+    "suburb": "Wolfensberg",
+    "municipality": "Winterthur",
+    "postcode": "8407",
+    "state": "Zürich"
+  },
+  "47.49547,8.72594": {
+    "road": "Hochwachtstrasse",
+    "suburb": "Heiligberg",
+    "municipality": "Winterthur",
+    "postcode": "8401",
+    "state": "Zürich"
+  },
+  "47.34579,8.93281": {
+    "road": "Ohrütistrasse",
+    "suburb": null,
+    "municipality": "Steg im Tösstal",
+    "postcode": "8496",
+    "state": "Zürich"
+  },
+  "47.42754,8.84585": {
+    "road": "Tösstalstrasse",
+    "suburb": null,
+    "municipality": "Turbenthal",
+    "postcode": "8492",
+    "state": "Zürich"
+  },
+  "47.47995,8.45623": {
+    "road": "Geissackerstrasse",
+    "suburb": null,
+    "municipality": "Dielsdorf",
+    "postcode": "8157",
+    "state": "Zürich"
+  },
+  "47.48186,8.87298": {
+    "road": "Schwimmbadstrasse",
+    "suburb": null,
+    "municipality": "Elgg",
+    "postcode": "8353",
+    "state": "Zürich"
+  },
+  "47.57052,8.65014": {
+    "road": "Hünikonerstrasse",
+    "suburb": null,
+    "municipality": "Dorf",
+    "postcode": "8458",
+    "state": "Zürich"
+  },
+  "47.40666,8.51159": {
+    "road": "Wässerlingweg",
+    "suburb": "Höngg",
+    "municipality": "Zürich",
+    "postcode": "8039",
+    "state": "Zürich"
+  },
+  "47.40258,8.67397": {
+    "road": "Schwimmbadstrasse",
+    "suburb": null,
+    "municipality": "Volketswil",
+    "postcode": "8604",
+    "state": "Zürich"
+  },
+  "47.28220,8.76387": {
+    "road": null,
+    "suburb": null,
+    "municipality": "Grüningen",
+    "postcode": "8627",
+    "state": "Zürich"
+  },
+  "47.49908,8.37666": {
+    "road": null,
+    "suburb": null,
+    "municipality": "Niederweningen",
+    "postcode": "8166",
+    "state": "Zürich"
+  },
+  "47.38073,8.47781": {
+    "road": "Zwischenbächen",
+    "suburb": "Altstetten",
+    "municipality": "Zürich",
+    "postcode": "8048",
+    "state": "Zürich"
+  },
+  "47.40484,8.60884": {
+    "road": "Chriesbachweg",
+    "suburb": "Giessen",
+    "municipality": "Dübendorf",
+    "postcode": "8304",
+    "state": "Zürich"
+  },
+  "47.63024,8.65025": {
+    "road": "Weierwegli",
+    "suburb": null,
+    "municipality": "Marthalen",
+    "postcode": "8460",
+    "state": "Zürich"
+  },
+  "47.24225,8.71171": {
+    "road": "Seestrasse",
+    "suburb": "Platten",
+    "municipality": "Stäfa",
+    "postcode": "8712",
+    "state": "Zürich"
+  },
+  "47.52867,8.78890": {
+    "road": "Eggwaldstrasse",
+    "suburb": "Steinegg",
+    "municipality": "Wiesendangen",
+    "postcode": "8542",
+    "state": "Zürich"
+  },
+  "47.24039,8.46885": {
+    "road": "Rossauerstrasse",
+    "suburb": null,
+    "municipality": "Mettmenstetten",
+    "postcode": "8932",
+    "state": "Zürich"
+  },
+  "47.51395,8.53689": {
+    "road": "Erachfeldstrasse",
+    "suburb": null,
+    "municipality": "Bülach",
+    "postcode": "8180",
+    "state": "Zürich"
+  },
+  "47.26184,8.84055": {
+    "road": "Cholgrueb-Weg",
+    "suburb": null,
+    "municipality": "Tann",
+    "postcode": "8632",
+    "state": "Zürich"
+  },
+  "47.27818,8.45910": {
+    "road": "Mühlebergstrasse",
+    "suburb": null,
+    "municipality": "Affoltern am Albis",
+    "postcode": "8910",
+    "state": "Zürich"
+  },
+  "47.24115,8.53884": {
+    "road": "Reto-Götschi-Weg",
+    "suburb": null,
+    "municipality": "Hausen am Albis",
+    "postcode": "8915",
+    "state": "Zürich"
+  },
+  "47.61277,8.72804": {
+    "road": "Guntibachstrasse",
+    "suburb": null,
+    "municipality": "Ossingen",
+    "postcode": "8475",
+    "state": "Zürich"
+  },
+  "47.38308,8.57443": {
+    "road": "Forrenweidstrasse",
+    "suburb": "Hottingen",
+    "municipality": "Zürich",
+    "postcode": "8044",
+    "state": "Zürich"
+  },
+  "47.38286,8.57421": {
+    "road": "Forrenweidstrasse",
+    "suburb": "Hottingen",
+    "municipality": "Zürich",
+    "postcode": "8044",
+    "state": "Zürich"
+  },
+  "47.43645,8.77000": {
+    "road": "Mettlenstrasse",
+    "suburb": null,
+    "municipality": "Theilingen",
+    "postcode": "8484",
+    "state": "Zürich"
+  },
+  "47.31039,8.58389": {
+    "road": "Seestrasse",
+    "suburb": null,
+    "municipality": "Küsnacht",
+    "postcode": "8700",
+    "state": "Zürich"
+  },
+  "47.31365,8.58562": {
+    "road": "Untere Heslibachstrasse",
+    "suburb": "Oberwacht",
+    "municipality": "Küsnacht",
+    "postcode": "8700",
+    "state": "Zürich"
+  },
+  "47.37157,8.49665": {
+    "road": "Espenhofweg",
+    "suburb": "Albisrieden",
+    "municipality": "Zürich",
+    "postcode": "8063",
+    "state": "Zürich"
+  },
+  "47.29925,8.69335": {
+    "road": "Südstrasse",
+    "suburb": null,
+    "municipality": "Hinteregg",
+    "postcode": "8132",
+    "state": "Zürich"
+  },
+  "47.55978,8.49275": {
+    "road": "Wisengrundstrasse",
+    "suburb": null,
+    "municipality": "Glattfelden",
+    "postcode": "8192",
+    "state": "Zürich"
+  },
+  "47.40746,8.38848": {
+    "road": "Fondlistrasse",
+    "suburb": null,
+    "municipality": "Dietikon",
+    "postcode": "8953",
+    "state": "Zürich"
+  },
+  "47.51809,8.54921": {
+    "road": "Gstötztweg",
+    "suburb": null,
+    "municipality": "Bülach",
+    "postcode": "8180",
+    "state": "Zürich"
+  },
+  "47.51850,8.55012": {
+    "road": "Gstötztweg",
+    "suburb": null,
+    "municipality": "Bülach",
+    "postcode": "8180",
+    "state": "Zürich"
+  },
+  "47.59950,8.67552": {
+    "road": "Thurweg",
+    "suburb": null,
+    "municipality": "Andelfingen",
+    "postcode": "8450",
+    "state": "Zürich"
+  },
+  "47.44335,8.58219": {
+    "road": "Hasenbühlweg",
+    "suburb": null,
+    "municipality": "Kloten",
+    "postcode": "8302",
+    "state": "Zürich"
+  },
+  "47.44344,8.58201": {
+    "road": "Hasenbühlweg",
+    "suburb": null,
+    "municipality": "Kloten",
+    "postcode": "8302",
+    "state": "Zürich"
+  },
+  "47.33073,8.62168": {
+    "road": "Forchstrasse",
+    "suburb": null,
+    "municipality": "Zumikon",
+    "postcode": "8126",
+    "state": "Zürich"
+  },
+  "47.68670,8.65798": {
+    "road": "Hauptstrasse",
+    "suburb": null,
+    "municipality": "Langwiesen",
+    "postcode": "8246",
+    "state": "Zürich"
+  },
+  "47.25495,8.61806": {
+    "road": "Strandbadstrasse",
+    "suburb": null,
+    "municipality": "Horgen",
+    "postcode": "8810",
+    "state": "Zürich"
+  },
+  "47.40414,8.53986": {
+    "road": "Allenmoosstrasse",
+    "suburb": "Unterstrass",
+    "municipality": "Zürich",
+    "postcode": "8057",
+    "state": "Zürich"
+  },
+  "47.40408,8.53971": {
+    "road": "Allenmoosstrasse",
+    "suburb": "Unterstrass",
+    "municipality": "Zürich",
+    "postcode": "8057",
+    "state": "Zürich"
+  },
+  "47.40401,8.53954": {
+    "road": "Allenmoosstrasse",
+    "suburb": "Unterstrass",
+    "municipality": "Zürich",
+    "postcode": "8057",
+    "state": "Zürich"
+  },
+  "47.40879,8.53403": {
+    "road": "Aehrenweg",
+    "suburb": "Oerlikon",
+    "municipality": "Zürich",
+    "postcode": "8057",
+    "state": "Zürich"
+  },
+  "47.38591,8.53494": {
+    "road": "Lux-Guyer-Weg",
+    "suburb": "Unterstrass",
+    "municipality": "Zürich",
+    "postcode": "8031",
+    "state": "Zürich"
+  },
+  "47.38083,8.47782": {
+    "road": null,
+    "suburb": "Altstetten",
+    "municipality": "Zürich",
+    "postcode": "8048",
+    "state": "Zürich"
+  },
+  "47.38095,8.47782": {
+    "road": null,
+    "suburb": "Altstetten",
+    "municipality": "Zürich",
+    "postcode": "8048",
+    "state": "Zürich"
+  },
+  "47.38291,8.57461": {
+    "road": "Forrenweidstrasse",
+    "suburb": "Hottingen",
+    "municipality": "Zürich",
+    "postcode": "8044",
+    "state": "Zürich"
+  },
+  "47.34047,8.53358": {
+    "road": "Erdbrustweg",
+    "suburb": "Wollishofen",
+    "municipality": "Zürich",
+    "postcode": "8038",
+    "state": "Zürich"
+  },
+  "47.40528,8.48996": {
+    "road": "Riedhofstrasse",
+    "suburb": "Höngg",
+    "municipality": "Zürich",
+    "postcode": "8049",
+    "state": "Zürich"
+  },
+  "47.40675,8.51150": {
+    "road": "Wässerlingweg",
+    "suburb": "Höngg",
+    "municipality": "Zürich",
+    "postcode": "8039",
+    "state": "Zürich"
+  },
+  "47.42319,8.62371": {
+    "road": "Lindenbuckweg",
+    "suburb": null,
+    "municipality": "Brüttisellen",
+    "postcode": "8306",
+    "state": "Zürich"
+  },
+  "47.44355,8.58173": {
+    "road": "Hasenbühlweg",
+    "suburb": null,
+    "municipality": "Kloten",
+    "postcode": "8302",
+    "state": "Zürich"
+  },
+  "47.44328,8.58232": {
+    "road": null,
+    "suburb": null,
+    "municipality": "Kloten",
+    "postcode": "8302",
+    "state": "Zürich"
+  },
+  "47.27542,8.57560": {
+    "road": "Freihofstrasse",
+    "suburb": "Dörfli",
+    "municipality": "Oberrieden",
+    "postcode": "8942",
+    "state": "Zürich"
+  },
+  "47.35428,8.43202": {
+    "road": "Gerenstrasse",
+    "suburb": null,
+    "municipality": "Birmensdorf (ZH)",
+    "postcode": "8903",
+    "state": "Zürich"
+  },
+  "47.26953,8.49194": {
+    "road": "Boletstrasse",
+    "suburb": null,
+    "municipality": "Aeugst am Albis",
+    "postcode": "8914",
+    "state": "Zürich"
+  },
+  "47.38967,8.75719": {
+    "road": "Schulhausstrasse",
+    "suburb": null,
+    "municipality": "Fehraltorf",
+    "postcode": "8320",
+    "state": "Zürich"
+  },
+  "47.25884,8.81981": {
+    "road": "Strandbadweg",
+    "suburb": "Wihalden",
+    "municipality": "Bubikon",
+    "postcode": "8608",
+    "state": "Zürich"
+  },
+  "47.36106,8.72546": {
+    "road": "Gschwaderstrasse",
+    "suburb": null,
+    "municipality": "Uster",
+    "postcode": "8615",
+    "state": "Zürich"
+  },
+  "47.36096,8.72538": {
+    "road": "Gschwaderstrasse",
+    "suburb": null,
+    "municipality": "Uster",
+    "postcode": "8615",
+    "state": "Zürich"
+  },
+  "47.36087,8.72530": {
+    "road": "Gschwaderstrasse",
+    "suburb": null,
+    "municipality": "Uster",
+    "postcode": "8615",
+    "state": "Zürich"
+  },
+  "47.51181,8.68347": {
+    "road": "Johannes-Beugger-Strasse",
+    "suburb": "Wülflingen",
+    "municipality": "Winterthur",
+    "postcode": "8408",
+    "state": "Zürich"
+  },
+  "47.24345,8.64932": {
+    "road": "Mittelortweg",
+    "suburb": null,
+    "municipality": "Wädenswil",
+    "postcode": "8820",
+    "state": "Zürich"
+  },
+  "47.31994,8.58259": {
+    "road": "Rosenstrasse",
+    "suburb": "Oberwacht",
+    "municipality": "Küsnacht",
+    "postcode": "8700",
+    "state": "Zürich"
+  },
+  "47.34504,8.58284": {
+    "road": "Fohrbachstrasse",
+    "suburb": "Zollikerberg",
+    "municipality": "Zollikon",
+    "postcode": "8702",
+    "state": "Zürich"
+  },
+  "47.66687,8.61686": {
+    "road": "Zubenackerstrasse",
+    "suburb": null,
+    "municipality": "Dachsen",
+    "postcode": "8447",
+    "state": "Zürich"
+  },
+  "47.26351,8.67918": {
+    "road": "Bachweg",
+    "suburb": null,
+    "municipality": "Uetikon am See",
+    "postcode": "8707",
+    "state": "Zürich"
+  },
+  "47.34509,8.58301": {
+    "road": "Fohrbachstrasse",
+    "suburb": "Zollikerberg",
+    "municipality": "Zollikon",
+    "postcode": "8702",
+    "state": "Zürich"
+  },
+  "47.32002,8.58279": {
+    "road": "Wangensbachstrasse",
+    "suburb": "Oberwacht",
+    "municipality": "Küsnacht",
+    "postcode": "8700",
+    "state": "Zürich"
+  },
+  "47.41808,8.59511": {
+    "road": "Alte Winterthurerstrasse",
+    "suburb": "Rieden",
+    "municipality": "Wallisellen",
+    "postcode": "8304",
+    "state": "Zürich"
+  },
+  "47.33832,8.65293": {
+    "road": "Karoweg",
+    "suburb": null,
+    "municipality": "Aesch",
+    "postcode": "8127",
+    "state": "Zürich"
+  },
+  "47.25890,8.81995": {
+    "road": "Strandbadweg",
+    "suburb": "Wihalden",
+    "municipality": "Bubikon",
+    "postcode": "8608",
+    "state": "Zürich"
+  },
+  "47.60621,8.53834": {
+    "road": "Chüewäg",
+    "suburb": null,
+    "municipality": "Rafz",
+    "postcode": "8197",
+    "state": "Zürich"
+  },
+  "47.21802,8.68009": {
+    "road": "Grüentalstrasse",
+    "suburb": null,
+    "municipality": "Wädenswil",
+    "postcode": "8820",
+    "state": "Zürich"
+  },
+  "47.35850,8.72399": {
+    "road": "Reitplatzweg",
+    "suburb": null,
+    "municipality": "Uster",
+    "postcode": "8615",
+    "state": "Zürich"
+  },
+  "47.26631,8.42796": {
+    "road": "Alte Landstrasse",
+    "suburb": null,
+    "municipality": "Obfelden",
+    "postcode": "8912",
+    "state": "Zürich"
+  },
+  "47.35329,8.66342": {
+    "road": "Murmer Seeweg",
+    "suburb": null,
+    "municipality": "Maur",
+    "postcode": "8124",
+    "state": "Zürich"
+  },
+  "47.27285,8.85270": {
+    "road": "Nauenstrasse",
+    "suburb": null,
+    "municipality": "Tann",
+    "postcode": "8635",
+    "state": "Zürich"
+  },
+  "47.37619,8.68073": {
+    "road": "Grossrietweg",
+    "suburb": null,
+    "municipality": "Uster",
+    "postcode": "8606",
+    "state": "Zürich"
+  },
+  "47.37604,8.68061": {
+    "road": "Grossrietweg",
+    "suburb": null,
+    "municipality": "Uster",
+    "postcode": "8606",
+    "state": "Zürich"
+  },
+  "47.50275,8.71455": {
+    "road": "Rennweg",
+    "suburb": "Stadt",
+    "municipality": "Winterthur",
+    "postcode": "8401",
+    "state": "Zürich"
+  },
+  "47.50280,8.71442": {
+    "road": "Rennweg",
+    "suburb": "Stadt",
+    "municipality": "Winterthur",
+    "postcode": "8401",
+    "state": "Zürich"
+  },
+  "47.50284,8.71429": {
+    "road": "Rennweg",
+    "suburb": "Stadt",
+    "municipality": "Winterthur",
+    "postcode": "8401",
+    "state": "Zürich"
+  }
+}

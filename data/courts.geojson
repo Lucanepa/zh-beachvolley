@@ -3,2085 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/675066796",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31218764,
-          47.37598422000001
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Campingplatz Sulz",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675066796"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675062214",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31668526,
-          47.45708074
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Kantonsschule Wettingen",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675062214"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675062215",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.316552820000002,
-          47.457003580000006
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Kantonsschule Wettingen",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675062215"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675067589",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.39177114,
-          47.30979362
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Oberlunkhofen",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675067589"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/121039007",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.355978780000001,
-          47.34846288
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Schule Zufikon",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/121039007"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675066937",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.355957440000001,
-          47.34856884
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Schule Zufikon",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675066937"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675067285",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.39130444,
-          47.33847288
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Schulhaus Falter",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675067285"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675066736",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.32745972,
-          47.38820955999999
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Schulhaus Künten",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675066736"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675066737",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.32761942,
-          47.38805076
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld Schulhaus Künten",
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675066737"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/147985492",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31059598,
-          47.46537291999999
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": true,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/147985492"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/147985493",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31094714,
-          47.465261860000005
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": true,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/147985493"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/147985609",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31037336,
-          47.46562704
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/147985609"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/212719009",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.30722576,
-          47.583498320000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/212719009"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/306742800",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.36857038,
-          47.36835276
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/306742800"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/327096646",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.30278402,
-          47.33307628
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/327096646"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/355773730",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.369029219999998,
-          47.354071520000005
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/355773730"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/356369483",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.314892140000001,
-          47.470191060000005
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": true,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/356369483"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/604239101",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.29993552,
-          47.42017748
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/604239101"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/607623382",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.344498300000001,
-          47.345887579999996
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/607623382"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675062134",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.372833120000001,
-          47.4430451
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675062134"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/675062135",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.3729826,
-          47.44298564
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/675062135"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1069871271",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.33357024,
-          47.461607619999995
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1069871271"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1306189168",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.34273742,
-          47.32996614
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "AG",
-        "cantonName": "Aargau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1306189168"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/95033575",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.39414164,
-          47.1150989
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "LU",
-        "cantonName": "Lucerne",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/95033575"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/257599801",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.32372718,
-          47.154961400000005
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "LU",
-        "cantonName": "Lucerne",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": true,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/257599801"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/206261640",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.947898259999999,
-          47.222377040000005
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfelder",
-        "operator": "Hallen- & Seebad Schmerikon",
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/206261640"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/34754750",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.815681799999998,
-          47.22291722
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/34754750"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/195667477",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.84489404,
-          47.220152580000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/195667477"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/195667489",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.84513068,
-          47.2203644
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/195667489"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/846048152",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.845063300000001,
-          47.220150479999994
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/846048152"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/846048153",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.84525206,
-          47.22014660000001
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/846048153"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/846048154",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.84513366,
-          47.220479260000005
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/846048154"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/846048155",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.845136720000001,
-          47.22059892
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/846048155"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/972550323",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.995032779999999,
-          47.1873248
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SG",
-        "cantonName": "St. Gallen",
-        "municipality": null,
-        "access": "private",
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/972550323"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/25787340",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.62159492,
-          47.70492598
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SH",
-        "cantonName": "Schaffhausen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/25787340"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/25787464",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.606877800000001,
-          47.677935319999996
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SH",
-        "cantonName": "Schaffhausen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/25787464"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/71439351",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4824402,
-          47.74583051999999
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SH",
-        "cantonName": "Schaffhausen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/71439351"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/200087360",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.703215199999999,
-          47.75301178
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SH",
-        "cantonName": "Schaffhausen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/200087360"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/315560691",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.64943188,
-          47.719422699999996
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SH",
-        "cantonName": "Schaffhausen",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/315560691"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/163560586",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.705369220000001,
-          47.18848486
-        ]
-      },
-      "properties": {
-        "name": "Beachsportanlage",
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": true,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/163560586"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/66363711",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.73507972,
-          47.12133854
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/66363711"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/198642481",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.75196074,
-          47.12778754
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/198642481"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/216426451",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.673453314285712,
-          47.10512265714285
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/216426451"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/273892392",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.88854886,
-          47.205076760000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/273892392"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/301167455",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.85292488,
-          47.1978809
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/301167455"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/549145998",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.89989974,
-          47.18143648
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/549145998"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/836339467",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.81965044,
-          47.1947384
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/836339467"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/846052367",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.75781676,
-          47.207309280000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "grass",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/846052367"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/853264811",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.97549256,
-          47.168440520000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/853264811"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/979362281",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.749009000000001,
-          47.20010218
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/979362281"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1043115524",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.9001883,
-          47.18143516000001
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1043115524"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1356936589",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.788298900000001,
-          47.19911864
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1356936589"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1356936590",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.78837996,
-          47.19900958
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "SZ",
-        "cantonName": "Schwyz",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1356936590"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10795656713",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.755028,
-          47.6894517
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": "yes",
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/node/10795656713"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/203232346",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.89432664,
-          47.552262840000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/203232346"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/259082313",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.9063804,
-          47.500078159999994
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/259082313"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/399665699",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.950185480000002,
-          47.52295468
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/399665699"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/401660516",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.89572216,
-          47.55021568000001
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/401660516"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/401660517",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8959089,
-          47.550214800000006
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/401660517"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/882762506",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.9736282,
-          47.66369986
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/882762506"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1055462053",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.939834979999999,
-          47.5307626
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1055462053"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1266062347",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.904325140000001,
-          47.5555396
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1266062347"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1421760596",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.99496246,
-          47.47185354
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "TG",
-        "cantonName": "Thurgau",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1421760596"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/43303762",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.524782400000001,
-          47.17343666000001
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballfeld",
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/43303762"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/935524127",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.490778259999999,
-          47.190980780000004
-        ]
-      },
-      "properties": {
-        "name": "Feld 1",
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/935524127"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/935524128",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4909126,
-          47.1908538
-        ]
-      },
-      "properties": {
-        "name": "Feld 2",
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/935524128"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/161698932",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.46837656,
-          47.18108152
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/161698932"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/192773489",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.59342632,
-          47.13315218
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/192773489"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/275863206",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.494057339999998,
-          47.177149240000006
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/275863206"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/275863207",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.49446432,
-          47.177124060000004
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/275863207"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/309699738",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.45205098,
-          47.169160319999996
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/309699738"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/488939065",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.45188156,
-          47.16915782
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/488939065"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/488956427",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.46825976,
-          47.18100988
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/488956427"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1046864455",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.530750833333334,
-          47.199869416666665
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1046864455"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1156142789",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.591838240000001,
-          47.179226760000006
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": "yes",
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1156142789"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1216260236",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.536061319999998,
-          47.14465851999999
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1216260236"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1395854112",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.610312019999999,
-          47.13404726
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": "ZG",
-        "cantonName": "Zug",
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1395854112"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/264198994",
       "geometry": {
         "type": "Point",
@@ -2095,9 +16,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wädenswil",
+        "street": "Seeweg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2122,9 +45,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kilchberg",
+        "street": "Horngasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2149,9 +74,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Horgen",
+        "street": "Berghaldenweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2176,9 +103,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Oberer Deutweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": false,
         "surface": "sand",
         "lit": true,
@@ -2203,9 +132,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Oberer Deutweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -2230,9 +161,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Oberer Deutweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -2257,9 +190,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Adliswil",
+        "street": "Sonnenbergstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2284,9 +219,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Andelfingen",
+        "street": "Schwellistrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2311,9 +248,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Langnau am Albis",
+        "street": "Breitwiesstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2338,9 +277,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Volketswil",
+        "street": "Usterstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2365,9 +306,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Bernerstrasse",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -2392,9 +335,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Weisshau",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -2419,9 +364,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Manessestrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2446,9 +393,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Rickenbach ZH",
+        "street": "Austrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2473,9 +422,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Mönchaltorf",
+        "street": "Rällikerstrasse",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2500,9 +451,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Dübendorf",
+        "street": "Eichstockweg",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2527,9 +480,11 @@
         "operator": "Freibad Seebach",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Am Katzenbach",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2554,9 +509,11 @@
         "operator": "Freibad Zwischen den Hölzern",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Frankentalerstrasse",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2581,9 +538,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Kunzweg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2608,9 +567,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Schlieren",
+        "street": "Schulstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2635,9 +596,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wetzikon ZH",
+        "street": "Meierwiesen",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2662,9 +625,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wetzikon ZH",
+        "street": "Meierwiesen",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2689,9 +654,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wetzikon ZH",
+        "street": "Meierwiesen",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2716,9 +683,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Rüschlikon",
+        "street": "Seestrasse",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2743,9 +712,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Höhenring",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2770,9 +741,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Dübendorfstrasse",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2797,9 +770,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wald",
+        "street": "Werkstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2824,9 +799,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wädenswil",
+        "street": "Seeweg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2851,9 +828,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Rüti (ZH)",
+        "street": "Schanzweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2878,9 +857,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Uferweg",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2905,9 +886,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Uferweg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -2932,9 +915,11 @@
         "operator": "Stadt Zürich, SSD, Sportamt",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Helen-Keller-Strasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -2959,9 +944,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Pfäffikon ZH",
+        "street": "Baumenstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -2986,9 +973,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Johannes-Beugger-Strasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3013,9 +1002,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Auwiesenstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3040,9 +1031,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Stadel",
+        "street": "Neuwisstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3067,9 +1060,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Glattbrugg",
+        "street": "Piccard-Platz",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -3094,9 +1089,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Lux-Guyer-Weg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": false,
@@ -3121,9 +1118,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uetikon am See",
+        "street": "Bachweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3148,9 +1147,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Richterswil",
+        "street": "Hornstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3175,9 +1176,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Reitplatzstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3202,9 +1205,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Allenmoosstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3229,9 +1234,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Thalwil",
+        "street": null,
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3256,9 +1263,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Bonstetten",
+        "street": "Stegmattenweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3283,9 +1292,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Reitplatzstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3310,9 +1321,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Obfelden",
+        "street": "Lindenmatt",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": true,
@@ -3337,9 +1350,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Josefstrasse",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3364,9 +1379,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Männedorf",
+        "street": "Ziegelhüttenweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3391,9 +1408,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Rümikon",
+        "street": "Chännerwisstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3418,9 +1437,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Illnau-Effretikon",
+        "street": "Sportplatzstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3445,9 +1466,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Seuzach",
+        "street": "Welsikonerstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3472,9 +1495,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kloten",
+        "street": "Schwimmbadstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3499,9 +1524,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kloten",
+        "street": "Schwimmbadstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3526,9 +1553,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Rickenbach ZH",
+        "street": "Schwimmbadstrasse",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3553,9 +1582,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Oststrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3580,9 +1611,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Pfungen",
+        "street": "Reckholdernstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3607,9 +1640,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Hettlingen",
+        "street": "Schwimmbadstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3634,9 +1669,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Bäumlistrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": true,
@@ -3661,9 +1698,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Aesch (Neftenbach)",
+        "street": "Seuzachstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3688,9 +1727,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Arvenweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3715,9 +1756,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Grafstal",
+        "street": "Badstrasse",
         "access": "permissive",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3742,9 +1785,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterberg ZH",
+        "street": "Holzgatter",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3769,9 +1814,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Rütihofstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3796,9 +1843,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Hochwachtstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3823,9 +1872,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Steg im Tösstal",
+        "street": "Ohrütistrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3850,9 +1901,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Turbenthal",
+        "street": "Tösstalstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -3877,9 +1930,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Dielsdorf",
+        "street": "Geissackerstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3904,9 +1959,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Elgg",
+        "street": "Schwimmbadstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3931,9 +1988,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Dorf",
+        "street": "Hünikonerstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -3958,9 +2017,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Wässerlingweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -3985,9 +2046,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Volketswil",
+        "street": "Schwimmbadstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -4012,9 +2075,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Grüningen",
+        "street": null,
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4039,9 +2104,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Niederweningen",
+        "street": null,
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4066,9 +2133,11 @@
         "operator": "Stadt Zürich, SSD, Sportamt",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Zwischenbächen",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -4093,9 +2162,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Dübendorf",
+        "street": "Chriesbachweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4120,9 +2191,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Marthalen",
+        "street": "Weierwegli",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -4147,9 +2220,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Stäfa",
+        "street": "Seestrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4174,9 +2249,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wiesendangen",
+        "street": "Eggwaldstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4201,9 +2278,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Mettmenstetten",
+        "street": "Rossauerstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4228,9 +2307,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Bülach",
+        "street": "Erachfeldstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -4255,9 +2336,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Tann",
+        "street": "Cholgrueb-Weg",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4282,9 +2365,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Affoltern am Albis",
+        "street": "Mühlebergstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4309,9 +2394,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Hausen am Albis",
+        "street": "Reto-Götschi-Weg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4336,9 +2423,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Ossingen",
+        "street": "Guntibachstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -4363,9 +2452,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Forrenweidstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -4390,9 +2481,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Forrenweidstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4417,9 +2510,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Theilingen",
+        "street": "Mettlenstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4444,9 +2539,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Küsnacht",
+        "street": "Seestrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4471,9 +2568,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Küsnacht",
+        "street": "Untere Heslibachstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4498,9 +2597,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Espenhofweg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4525,9 +2626,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Hinteregg",
+        "street": "Südstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4552,9 +2655,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Glattfelden",
+        "street": "Wisengrundstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -4579,9 +2684,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Dietikon",
+        "street": "Fondlistrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4606,9 +2713,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Bülach",
+        "street": "Gstötztweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4633,9 +2742,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Bülach",
+        "street": "Gstötztweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -4660,9 +2771,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Andelfingen",
+        "street": "Thurweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4687,9 +2800,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kloten",
+        "street": "Hasenbühlweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4714,9 +2829,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kloten",
+        "street": "Hasenbühlweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4741,9 +2858,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zumikon",
+        "street": "Forchstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -4768,9 +2887,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Langwiesen",
+        "street": "Hauptstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4795,9 +2916,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Horgen",
+        "street": "Strandbadstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4822,9 +2945,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Allenmoosstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4849,9 +2974,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Allenmoosstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4876,9 +3003,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Allenmoosstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4903,9 +3032,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Aehrenweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4930,9 +3061,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Lux-Guyer-Weg",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -4957,9 +3090,11 @@
         "operator": "Stadt Zürich, SSD, Sportamt",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": null,
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -4984,9 +3119,11 @@
         "operator": "Stadt Zürich, SSD, Sportamt",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": null,
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -5011,9 +3148,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Forrenweidstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": true,
@@ -5038,9 +3177,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Erdbrustweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5065,9 +3206,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Riedhofstrasse",
         "access": "yes",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5092,9 +3235,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zürich",
+        "street": "Wässerlingweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5119,9 +3264,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Brüttisellen",
+        "street": "Lindenbuckweg",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5146,9 +3293,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kloten",
+        "street": "Hasenbühlweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5173,9 +3322,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Kloten",
+        "street": null,
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5200,9 +3351,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Oberrieden",
+        "street": "Freihofstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5227,9 +3380,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Birmensdorf (ZH)",
+        "street": "Gerenstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -5254,9 +3409,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Aeugst am Albis",
+        "street": "Boletstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5281,9 +3438,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Fehraltorf",
+        "street": "Schulhausstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5308,9 +3467,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Bubikon",
+        "street": "Strandbadweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5335,9 +3496,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Gschwaderstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5362,9 +3525,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Gschwaderstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5389,9 +3554,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Gschwaderstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5416,9 +3583,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Johannes-Beugger-Strasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": false,
@@ -5443,9 +3612,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wädenswil",
+        "street": "Mittelortweg",
         "access": "private",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5470,9 +3641,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Küsnacht",
+        "street": "Rosenstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5497,9 +3670,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zollikon",
+        "street": "Fohrbachstrasse",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5524,9 +3699,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Dachsen",
+        "street": "Zubenackerstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": null,
@@ -5551,9 +3728,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uetikon am See",
+        "street": "Bachweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5578,9 +3757,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Zollikon",
+        "street": "Fohrbachstrasse",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5605,9 +3786,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Küsnacht",
+        "street": "Wangensbachstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5632,9 +3815,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wallisellen",
+        "street": "Alte Winterthurerstrasse",
         "access": "customers",
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": false,
@@ -5659,9 +3844,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Aesch",
+        "street": "Karoweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5686,9 +3873,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Bubikon",
+        "street": "Strandbadweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5713,9 +3902,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Rafz",
+        "street": "Chüewäg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5740,9 +3931,11 @@
         "operator": "ZHAW",
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Wädenswil",
+        "street": "Grüentalstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "grass",
         "lit": false,
@@ -5767,9 +3960,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Reitplatzweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": null,
         "lit": false,
@@ -5794,9 +3989,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Obfelden",
+        "street": "Alte Landstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5821,9 +4018,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Maur",
+        "street": "Murmer Seeweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5848,9 +4047,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Tann",
+        "street": "Nauenstrasse",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5875,9 +4076,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Grossrietweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5902,9 +4105,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Uster",
+        "street": "Grossrietweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5929,9 +4134,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Rennweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5956,9 +4163,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Rennweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5983,9 +4192,11 @@
         "operator": null,
         "canton": "ZH",
         "cantonName": "Zurich",
-        "municipality": null,
+        "municipality": "Winterthur",
+        "street": "Rennweg",
         "access": null,
         "indoor": false,
+        "indoorSource": null,
         "fee": null,
         "surface": "sand",
         "lit": null,
@@ -5993,681 +4204,6 @@
         "phone": null,
         "openingHours": null,
         "osmUrl": "https://www.openstreetmap.org/way/1373171357"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1221437131",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.690628659999998,
-          47.79259648
-        ]
-      },
-      "properties": {
-        "name": "Beachvolleyballplatz",
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1221437131"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/120059385",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7684817,
-          47.740765716666665
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/120059385"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/204594452",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.86491234,
-          47.72039138
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/204594452"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/211912495",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.40841188,
-          47.62502438
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/211912495"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/229862139",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.96499848,
-          47.7150538
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/229862139"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/230058061",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.762788420000001,
-          47.68861506
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/230058061"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/272345373",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.998288339999998,
-          47.72805032
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": "customers",
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/272345373"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/289033615",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.768358300000001,
-          47.7406963
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/289033615"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/314231103",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.42680326,
-          47.65249394
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/314231103"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441275723",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.943820400000002,
-          47.72281968
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/441275723"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/484368410",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.43201652,
-          47.56727638
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/484368410"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/485022371",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.319031960000002,
-          47.624254099999995
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/485022371"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/527603340",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.9833368,
-          47.738579279999996
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/527603340"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/537527902",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.77400818,
-          47.76424114
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/537527902"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/549389284",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.3015984,
-          47.74566984
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/549389284"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/593786144",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.789389279999998,
-          47.79041114
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/593786144"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/615941818",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.89097958,
-          47.655166060000006
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/615941818"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/798212249",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8430352,
-          47.75312577999999
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/798212249"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/837114828",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.59792748,
-          47.60866462
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/837114828"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/964862269",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.40073648,
-          47.699601740000006
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/964862269"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1026138501",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.98087986,
-          47.679594779999995
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1026138501"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1055032633",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.93691314,
-          47.65966992
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": null,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1055032633"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1179938547",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.99706252,
-          47.68743418
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1179938547"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1221891167",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.435430180000001,
-          47.77709852
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": null,
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1221891167"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1249001276",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.991989900000002,
-          47.72965402000001
-        ]
-      },
-      "properties": {
-        "name": null,
-        "operator": null,
-        "canton": null,
-        "cantonName": null,
-        "municipality": null,
-        "access": null,
-        "indoor": false,
-        "fee": null,
-        "surface": "sand",
-        "lit": false,
-        "website": null,
-        "phone": null,
-        "openingHours": null,
-        "osmUrl": "https://www.openstreetmap.org/way/1249001276"
       }
     }
   ]

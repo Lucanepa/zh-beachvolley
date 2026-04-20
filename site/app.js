@@ -160,8 +160,12 @@ function renderCantonChips() {
     counts.set(code, (counts.get(code) ?? 0) + 1);
     if (f.properties.cantonName) names.set(code, f.properties.cantonName);
   }
-  if (counts.size === 0) {
+  // Hide the row when there's nothing useful to pick: 0 cantons (no data)
+  // or exactly 1 canton (current single-canton scope — filtering does
+  // nothing).
+  if (counts.size <= 1) {
     els.cantonRow.hidden = true;
+    els.cantonRow.innerHTML = "";
     return;
   }
   const codes = [...counts.keys()].sort();
@@ -255,16 +259,22 @@ function renderList(features, emptyMsg = "No courts match these filters.") {
     cKey(a).localeCompare(cKey(b)),
   );
 
+  // When all visible courts share one canton, the canton header is noise —
+  // skip it and let municipality-level groups be the top level.
+  const onlyOneCanton = cantonKeys.length === 1 && cantonKeys[0] !== "";
+
   for (const cCode of cantonKeys) {
     const muniMap = byCanton.get(cCode);
     const total = [...muniMap.values()].reduce((n, xs) => n + xs.length, 0);
-    const cHeader = document.createElement("li");
-    cHeader.className = "canton-group";
-    const title = cCode
-      ? `${escapeHtml(cCode)} <span class="canton-name">${escapeHtml(cantonNames.get(cCode) ?? "")}</span>`
-      : `Outside Switzerland`;
-    cHeader.innerHTML = `${title}<span class="n">${total}</span>`;
-    els.list.appendChild(cHeader);
+    if (!onlyOneCanton) {
+      const cHeader = document.createElement("li");
+      cHeader.className = "canton-group";
+      const title = cCode
+        ? `${escapeHtml(cCode)} <span class="canton-name">${escapeHtml(cantonNames.get(cCode) ?? "")}</span>`
+        : `Outside Switzerland`;
+      cHeader.innerHTML = `${title}<span class="n">${total}</span>`;
+      els.list.appendChild(cHeader);
+    }
 
     const muniKey = (s) => (s === "Unknown municipality" ? "\uffff" : s);
     const muniKeys = [...muniMap.keys()].sort((a, b) =>
@@ -289,9 +299,12 @@ function listItem(f) {
   li.dataset.id = id;
   if (state.selectedId === id) li.setAttribute("aria-selected", "true");
 
+  const fallback = [p.street, p.municipality].filter(Boolean).join(", ");
   const name = p.name
     ? `<span class="named">${escapeHtml(p.name)}</span>`
-    : `<span class="unnamed">Unnamed court</span>`;
+    : fallback
+      ? `<span class="unnamed-fallback">${escapeHtml(fallback)}</span>`
+      : `<span class="unnamed">Unnamed court</span>`;
 
   const tags = [];
   tags.push(
@@ -303,12 +316,15 @@ function listItem(f) {
   if (p.fee === true) tags.push(`<span>Fee</span>`);
   if (p.surface && p.surface !== "sand") tags.push(`<span>${escapeHtml(p.surface)}</span>`);
 
-  const muniMeta = [p.municipality, p.operator].filter(Boolean).map(escapeHtml).join(" · ");
+  // The municipality is already used in the group header; in the row,
+  // surface the street + operator so the card carries distinct info.
+  const rowMetaSource = p.name ? [p.street, p.operator] : [p.operator];
+  const rowMeta = rowMetaSource.filter(Boolean).map(escapeHtml).join(" · ");
   const [lon, lat] = f.geometry?.coordinates ?? [0, 0];
 
   li.innerHTML = `
     <p class="court-name">${name}</p>
-    ${muniMeta ? `<p class="court-meta">${muniMeta}</p>` : ""}
+    ${rowMeta ? `<p class="court-meta">${rowMeta}</p>` : ""}
     <p class="court-tags">${tags.join("")}</p>
     <p class="court-coords">${lat.toFixed(5)}, ${lon.toFixed(5)}</p>
   `;
@@ -344,7 +360,8 @@ function renderMarkers(features) {
 function popupHtml(f) {
   const p = f.properties || {};
   const [lon, lat] = f.geometry?.coordinates ?? [0, 0];
-  const name = p.name ? escapeHtml(p.name) : "Unnamed court";
+  const fallback = [p.street, p.municipality].filter(Boolean).join(", ");
+  const name = escapeHtml(p.name || fallback || "Unnamed court");
   const muni = p.municipality ? escapeHtml(p.municipality) : "";
   const type = p.indoor ? "Indoor" : "Outdoor";
   const id = featureId(f);

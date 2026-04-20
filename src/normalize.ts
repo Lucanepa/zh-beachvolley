@@ -1,5 +1,6 @@
 import type { OverpassElement, OverpassResponse } from "./overpass.ts";
 import { cantonForPoint } from "./cantons.ts";
+import { enclosingHint, type IndoorHint } from "./indoor.ts";
 
 export interface Court {
   id: string;               // "node/123" | "way/456" | "relation/789"
@@ -11,11 +12,13 @@ export interface Court {
   canton: string | null;      // ISO3166-2 suffix, e.g. "ZH"
   cantonName: string | null;  // English name where available
   municipality: string | null;
+  street: string | null;      // populated via Nominatim enrichment
   postcode: string | null;
   lat: number;
   lon: number;
   access: string | null;    // "yes" | "customers" | "private" | "members" | ...
   indoor: boolean;
+  indoorSource: "tag" | "hall" | null; // "tag" = pitch tag; "hall" = PIP into enclosing hall
   fee: boolean | null;
   surface: string | null;   // typically "sand"
   lit: boolean | null;
@@ -23,6 +26,13 @@ export interface Court {
   phone: string | null;
   openingHours: string | null;
   tags: Record<string, string>;
+}
+
+export interface NormalizeOptions {
+  /** If set, keep only courts whose canton code matches (e.g. "ZH"). */
+  keepCanton?: string;
+  /** Optional enclosing-hall polygons; courts inside one are flagged indoor. */
+  indoorHints?: IndoorHint[];
 }
 
 function centroid(pts: { lat: number; lon: number }[]): { lat: number; lon: number } {
@@ -51,10 +61,20 @@ function parseBool(v: string | undefined): boolean | null {
   return null;
 }
 
-export function normalize(resp: OverpassResponse): Court[] {
+function isCourt(el: OverpassElement): boolean {
+  const s = el.tags?.sport;
+  return s === "beach_volleyball" || s === "beachvolleyball";
+}
+
+export function normalize(
+  resp: OverpassResponse,
+  opts: NormalizeOptions = {},
+): Court[] {
+  const { keepCanton, indoorHints = [] } = opts;
   const seen = new Set<string>();
   const courts: Court[] = [];
   for (const el of resp.elements) {
+    if (!isCourt(el)) continue;
     const pos = coords(el);
     if (!pos) continue;
     const id = `${el.type}/${el.id}`;
@@ -62,6 +82,27 @@ export function normalize(resp: OverpassResponse): Court[] {
     seen.add(id);
     const tags = el.tags ?? {};
     const canton = cantonForPoint(pos.lat, pos.lon);
+
+    let indoor = parseBool(tags.indoor) === true;
+    let indoorSource: Court["indoorSource"] = indoor ? "tag" : null;
+    if (!indoor && indoorHints.length > 0) {
+      const hit = enclosingHint(pos.lat, pos.lon, indoorHints);
+      // A sports_hall building, or any enclosing polygon tagged `indoor=yes`
+      // / `covered=yes`, is evidence the court is indoor. leisure=sports_centre
+      // without those tags covers outdoor venues too, so don't auto-flag.
+      if (hit) {
+        const ht = hit.tags;
+        if (
+          ht.building === "sports_hall" ||
+          parseBool(ht.indoor) === true ||
+          parseBool(ht.covered) === true
+        ) {
+          indoor = true;
+          indoorSource = "hall";
+        }
+      }
+    }
+
     courts.push({
       id,
       osmType: el.type,
@@ -72,11 +113,13 @@ export function normalize(resp: OverpassResponse): Court[] {
       canton: canton?.code ?? null,
       cantonName: canton?.name ?? null,
       municipality: tags["addr:city"] ?? tags["is_in:city"] ?? null,
+      street: null,
       postcode: tags["addr:postcode"] ?? null,
       lat: pos.lat,
       lon: pos.lon,
       access: tags.access ?? null,
-      indoor: parseBool(tags.indoor) === true,
+      indoor,
+      indoorSource,
       fee: parseBool(tags.fee),
       surface: tags.surface ?? null,
       lit: parseBool(tags.lit),
@@ -86,14 +129,19 @@ export function normalize(resp: OverpassResponse): Court[] {
       tags,
     });
   }
+
+  const filtered = keepCanton
+    ? courts.filter((c) => c.canton === keepCanton)
+    : courts;
+
   // Stable sort: canton → municipality → name. Unknown sinks with "\uffff".
   const key = (s: string | null) => s ?? "\uffff";
-  courts.sort((a, b) => {
+  filtered.sort((a, b) => {
     const c = key(a.canton).localeCompare(key(b.canton));
     if (c !== 0) return c;
     const m = key(a.municipality).localeCompare(key(b.municipality));
     if (m !== 0) return m;
     return key(a.name).localeCompare(key(b.name));
   });
-  return courts;
+  return filtered;
 }

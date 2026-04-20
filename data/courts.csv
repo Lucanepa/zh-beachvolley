@@ -1,248 +1,146 @@
-id,name,municipality,canton,postcode,lat,lon,indoor,access,fee,surface,operator,website,phone,openingHours,osmUrl
-way/675066796,Beachvolleyballfeld Campingplatz Sulz,,AG,,47.37598422000001,8.31218764,false,,,sand,,,,,https://www.openstreetmap.org/way/675066796
-way/675062214,Beachvolleyballfeld Kantonsschule Wettingen,,AG,,47.45708074,8.31668526,false,,,sand,,,,,https://www.openstreetmap.org/way/675062214
-way/675062215,Beachvolleyballfeld Kantonsschule Wettingen,,AG,,47.457003580000006,8.316552820000002,false,,,sand,,,,,https://www.openstreetmap.org/way/675062215
-way/675067589,Beachvolleyballfeld Oberlunkhofen,,AG,,47.30979362,8.39177114,false,,,sand,,,,,https://www.openstreetmap.org/way/675067589
-way/121039007,Beachvolleyballfeld Schule Zufikon,,AG,,47.34846288,8.355978780000001,false,,,sand,,,,,https://www.openstreetmap.org/way/121039007
-way/675066937,Beachvolleyballfeld Schule Zufikon,,AG,,47.34856884,8.355957440000001,false,,,sand,,,,,https://www.openstreetmap.org/way/675066937
-way/675067285,Beachvolleyballfeld Schulhaus Falter,,AG,,47.33847288,8.39130444,false,,,sand,,,,,https://www.openstreetmap.org/way/675067285
-way/675066736,Beachvolleyballfeld Schulhaus Künten,,AG,,47.38820955999999,8.32745972,false,,,sand,,,,,https://www.openstreetmap.org/way/675066736
-way/675066737,Beachvolleyballfeld Schulhaus Künten,,AG,,47.38805076,8.32761942,false,,,sand,,,,,https://www.openstreetmap.org/way/675066737
-way/147985492,,,AG,,47.46537291999999,8.31059598,false,,,sand,,,,,https://www.openstreetmap.org/way/147985492
-way/147985493,,,AG,,47.465261860000005,8.31094714,false,,,sand,,,,,https://www.openstreetmap.org/way/147985493
-way/147985609,,,AG,,47.46562704,8.31037336,false,,,sand,,,,,https://www.openstreetmap.org/way/147985609
-way/212719009,,,AG,,47.583498320000004,8.30722576,false,,,,,,,,https://www.openstreetmap.org/way/212719009
-way/306742800,,,AG,,47.36835276,8.36857038,false,,,sand,,,,,https://www.openstreetmap.org/way/306742800
-way/327096646,,,AG,,47.33307628,8.30278402,false,,,,,,,,https://www.openstreetmap.org/way/327096646
-way/355773730,,,AG,,47.354071520000005,8.369029219999998,false,,,sand,,,,,https://www.openstreetmap.org/way/355773730
-way/356369483,,,AG,,47.470191060000005,8.314892140000001,false,,,sand,,,,,https://www.openstreetmap.org/way/356369483
-way/604239101,,,AG,,47.42017748,8.29993552,false,,,sand,,,,,https://www.openstreetmap.org/way/604239101
-way/607623382,,,AG,,47.345887579999996,8.344498300000001,false,,,sand,,,,,https://www.openstreetmap.org/way/607623382
-way/675062134,,,AG,,47.4430451,8.372833120000001,false,,,sand,,,,,https://www.openstreetmap.org/way/675062134
-way/675062135,,,AG,,47.44298564,8.3729826,false,,,sand,,,,,https://www.openstreetmap.org/way/675062135
-way/1069871271,,,AG,,47.461607619999995,8.33357024,false,,,sand,,,,,https://www.openstreetmap.org/way/1069871271
-way/1306189168,,,AG,,47.32996614,8.34273742,false,,,sand,,,,,https://www.openstreetmap.org/way/1306189168
-way/95033575,,,LU,,47.1150989,8.39414164,false,,,,,,,,https://www.openstreetmap.org/way/95033575
-way/257599801,,,LU,,47.154961400000005,8.32372718,false,,,sand,,,,,https://www.openstreetmap.org/way/257599801
-way/206261640,Beachvolleyballfelder,,SG,,47.222377040000005,8.947898259999999,false,,,sand,Hallen- & Seebad Schmerikon,,,,https://www.openstreetmap.org/way/206261640
-way/34754750,,,SG,,47.22291722,8.815681799999998,false,,,sand,,,,,https://www.openstreetmap.org/way/34754750
-way/195667477,,,SG,,47.220152580000004,8.84489404,false,,,sand,,,,,https://www.openstreetmap.org/way/195667477
-way/195667489,,,SG,,47.2203644,8.84513068,false,,,sand,,,,,https://www.openstreetmap.org/way/195667489
-way/846048152,,,SG,,47.220150479999994,8.845063300000001,false,,,sand,,,,,https://www.openstreetmap.org/way/846048152
-way/846048153,,,SG,,47.22014660000001,8.84525206,false,,,sand,,,,,https://www.openstreetmap.org/way/846048153
-way/846048154,,,SG,,47.220479260000005,8.84513366,false,,,sand,,,,,https://www.openstreetmap.org/way/846048154
-way/846048155,,,SG,,47.22059892,8.845136720000001,false,,,sand,,,,,https://www.openstreetmap.org/way/846048155
-way/972550323,,,SG,,47.1873248,8.995032779999999,false,private,,sand,,,,,https://www.openstreetmap.org/way/972550323
-way/25787340,,,SH,,47.70492598,8.62159492,false,,,,,,,,https://www.openstreetmap.org/way/25787340
-way/25787464,,,SH,,47.677935319999996,8.606877800000001,false,,,,,,,,https://www.openstreetmap.org/way/25787464
-way/71439351,,,SH,,47.74583051999999,8.4824402,false,,,sand,,,,,https://www.openstreetmap.org/way/71439351
-way/200087360,,,SH,,47.75301178,8.703215199999999,false,,,sand,,,,,https://www.openstreetmap.org/way/200087360
-way/315560691,,,SH,,47.719422699999996,8.64943188,false,,,,,,,,https://www.openstreetmap.org/way/315560691
-way/163560586,Beachsportanlage,,SZ,,47.18848486,8.705369220000001,false,,,sand,,,,,https://www.openstreetmap.org/way/163560586
-way/66363711,,,SZ,,47.12133854,8.73507972,false,,,sand,,,,,https://www.openstreetmap.org/way/66363711
-way/198642481,,,SZ,,47.12778754,8.75196074,false,,,sand,,,,,https://www.openstreetmap.org/way/198642481
-way/216426451,,,SZ,,47.10512265714285,8.673453314285712,false,,,sand,,,,,https://www.openstreetmap.org/way/216426451
-way/273892392,,,SZ,,47.205076760000004,8.88854886,false,,,sand,,,,,https://www.openstreetmap.org/way/273892392
-way/301167455,,,SZ,,47.1978809,8.85292488,false,,,sand,,,,,https://www.openstreetmap.org/way/301167455
-way/549145998,,,SZ,,47.18143648,8.89989974,false,,,sand,,,,,https://www.openstreetmap.org/way/549145998
-way/836339467,,,SZ,,47.1947384,8.81965044,false,,,sand,,,,,https://www.openstreetmap.org/way/836339467
-way/846052367,,,SZ,,47.207309280000004,8.75781676,false,,,grass,,,,,https://www.openstreetmap.org/way/846052367
-way/853264811,,,SZ,,47.168440520000004,8.97549256,false,,,sand,,,,,https://www.openstreetmap.org/way/853264811
-way/979362281,,,SZ,,47.20010218,8.749009000000001,false,,,sand,,,,,https://www.openstreetmap.org/way/979362281
-way/1043115524,,,SZ,,47.18143516000001,8.9001883,false,,,sand,,,,,https://www.openstreetmap.org/way/1043115524
-way/1356936589,,,SZ,,47.19911864,8.788298900000001,false,,,sand,,,,,https://www.openstreetmap.org/way/1356936589
-way/1356936590,,,SZ,,47.19900958,8.78837996,false,,,sand,,,,,https://www.openstreetmap.org/way/1356936590
-node/10795656713,,,TG,,47.6894517,8.755028,false,yes,,sand,,,,,https://www.openstreetmap.org/node/10795656713
-way/203232346,,,TG,,47.552262840000004,8.89432664,false,,,sand,,,,,https://www.openstreetmap.org/way/203232346
-way/259082313,,,TG,,47.500078159999994,8.9063804,false,,,sand,,,,,https://www.openstreetmap.org/way/259082313
-way/399665699,,,TG,,47.52295468,8.950185480000002,false,,,sand,,,,,https://www.openstreetmap.org/way/399665699
-way/401660516,,,TG,,47.55021568000001,8.89572216,false,,,sand,,,,,https://www.openstreetmap.org/way/401660516
-way/401660517,,,TG,,47.550214800000006,8.8959089,false,,,sand,,,,,https://www.openstreetmap.org/way/401660517
-way/882762506,,,TG,,47.66369986,8.9736282,false,,,sand,,,,,https://www.openstreetmap.org/way/882762506
-way/1055462053,,,TG,,47.5307626,8.939834979999999,false,,,sand,,,,,https://www.openstreetmap.org/way/1055462053
-way/1266062347,,,TG,,47.5555396,8.904325140000001,false,,,sand,,,,,https://www.openstreetmap.org/way/1266062347
-way/1421760596,,,TG,,47.47185354,8.99496246,false,,,sand,,,,,https://www.openstreetmap.org/way/1421760596
-way/43303762,Beachvolleyballfeld,,ZG,,47.17343666000001,8.524782400000001,false,,,sand,,,,,https://www.openstreetmap.org/way/43303762
-way/935524127,Feld 1,,ZG,,47.190980780000004,8.490778259999999,false,,,sand,,,,,https://www.openstreetmap.org/way/935524127
-way/935524128,Feld 2,,ZG,,47.1908538,8.4909126,false,,,sand,,,,,https://www.openstreetmap.org/way/935524128
-way/161698932,,,ZG,,47.18108152,8.46837656,false,,,sand,,,,,https://www.openstreetmap.org/way/161698932
-way/192773489,,,ZG,,47.13315218,8.59342632,false,,,sand,,,,,https://www.openstreetmap.org/way/192773489
-way/275863206,,,ZG,,47.177149240000006,8.494057339999998,false,,,sand,,,,,https://www.openstreetmap.org/way/275863206
-way/275863207,,,ZG,,47.177124060000004,8.49446432,false,,,sand,,,,,https://www.openstreetmap.org/way/275863207
-way/309699738,,,ZG,,47.169160319999996,8.45205098,false,,,sand,,,,,https://www.openstreetmap.org/way/309699738
-way/488939065,,,ZG,,47.16915782,8.45188156,false,,,sand,,,,,https://www.openstreetmap.org/way/488939065
-way/488956427,,,ZG,,47.18100988,8.46825976,false,,,sand,,,,,https://www.openstreetmap.org/way/488956427
-way/1046864455,,,ZG,,47.199869416666665,8.530750833333334,false,,,sand,,,,,https://www.openstreetmap.org/way/1046864455
-way/1156142789,,,ZG,,47.179226760000006,8.591838240000001,false,yes,,sand,,,,,https://www.openstreetmap.org/way/1156142789
-way/1216260236,,,ZG,,47.14465851999999,8.536061319999998,false,,,sand,,,,,https://www.openstreetmap.org/way/1216260236
-way/1395854112,,,ZG,,47.13404726,8.610312019999999,false,,,sand,,,,,https://www.openstreetmap.org/way/1395854112
-way/264198994,Beach Volleyball Court Au,,ZH,,47.25009868,8.632231,false,yes,,sand,,,,,https://www.openstreetmap.org/way/264198994
-way/674503538,beach volleyball court Fischer's Fritz,,ZH,,47.3357871,8.54199064,false,,,sand,,,,,https://www.openstreetmap.org/way/674503538
-way/264195133,beach volleyball court Rainweg,,ZH,,47.256540539999996,8.599490980000002,false,,,sand,,,,,https://www.openstreetmap.org/way/264195133
-way/381085547,Beach Volleyball-Feld,,ZH,,47.495006079999996,8.74488212,false,,false,sand,,,,"Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",https://www.openstreetmap.org/way/381085547
-way/489129650,Beach Volleyball-Feld,,ZH,,47.49490878,8.74499172,false,,,sand,,,,"Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",https://www.openstreetmap.org/way/489129650
-way/489129652,Beach Volleyball-Feld,,ZH,,47.49481448,8.745099720000002,false,,,sand,,,,"Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",https://www.openstreetmap.org/way/489129652
-way/1176166149,Beachvolleyball,,ZH,,47.31141744,8.52061196,false,,,sand,,,,,https://www.openstreetmap.org/way/1176166149
-way/1178308564,Beachvolleyball,,ZH,,47.59627816,8.67169612,false,,,sand,,,,,https://www.openstreetmap.org/way/1178308564
-way/1227330063,Beachvolleyball,,ZH,,47.289284959999996,8.542272700000002,false,,,sand,,,,,https://www.openstreetmap.org/way/1227330063
-way/179196884,Beachvolleyball Gries,,ZH,,47.38534578,8.68083316,false,,,sand,,,,,https://www.openstreetmap.org/way/179196884
-way/674506153,Beachvolleyball Juchhof 1,,ZH,,47.39760862,8.474769319999998,false,customers,,sand,,,,,https://www.openstreetmap.org/way/674506153
-way/852468608,Beachvolleyball Neunbrunnenstrasse,,ZH,,47.41748021666666,8.541382016666667,false,yes,,sand,,,,,https://www.openstreetmap.org/way/852468608
-way/674186503,Beachvolleyball Sihlhölzli,,ZH,,47.36909212,8.52658066,false,,,sand,,,,,https://www.openstreetmap.org/way/674186503
-way/1165021764,Beachvolleyball-Anlage,,ZH,,47.55161016,8.79251926,false,,,sand,,,,,https://www.openstreetmap.org/way/1165021764
-way/1445447809,Beachvolleyballfeld,,ZH,,47.30928304,8.71778354,false,yes,,sand,,,,,https://www.openstreetmap.org/way/1445447809
-way/40231966,Beachvolleyballfeld Freibad Oberdorf,,ZH,,47.39328958,8.625359940000001,false,customers,,sand,,,,,https://www.openstreetmap.org/way/40231966
-way/442559353,Beachvolleyballfeld Freibad Seebach,,ZH,,47.42425518,8.54571976,false,customers,,sand,Freibad Seebach,,,,https://www.openstreetmap.org/way/442559353
-way/285303275,Beachvolleyballfeld Freibad zwischen den Hölzern,,ZH,,47.409424959999996,8.47615602,false,customers,,sand,Freibad Zwischen den Hölzern,,,,https://www.openstreetmap.org/way/285303275
-way/674613630,Beachvolleyballfeld Fronwald,,ZH,,47.42149278,8.509826900000002,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674613630
-way/675068517,Beachvolleyballfeld im Moos,,ZH,,47.39661592,8.45810984,false,,,sand,,,,,https://www.openstreetmap.org/way/675068517
-way/245489522,Beachvolleyballfeld Meierwiesen,,ZH,,47.31580192,8.80060248,false,,,sand,,,,,https://www.openstreetmap.org/way/245489522
-way/245489528,Beachvolleyballfeld Meierwiesen,,ZH,,47.31570172000001,8.80051294,false,,,sand,,,,,https://www.openstreetmap.org/way/245489528
-way/245489532,Beachvolleyballfeld Meierwiesen,,ZH,,47.31560154,8.8004234,false,,,sand,,,,,https://www.openstreetmap.org/way/245489532
-way/122972896,Beachvolleyballfeld Rüschlikon,,ZH,,47.31081896,8.55688302,false,yes,,sand,,,,,https://www.openstreetmap.org/way/122972896
-way/245637795,Beachvolleyballfeld Schulhaus Buhnrain,,ZH,,47.42016162,8.54184036,false,yes,,sand,,,,,https://www.openstreetmap.org/way/245637795
-way/674614911,Beachvolleyballfeld Schulhaus Stettbach,,ZH,,47.40186562,8.579759319999999,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674614911
-way/673146865,Beachvolleyballfeld Schwimmbad Wald,,ZH,,47.27860158,8.9127771,false,,,sand,,,,,https://www.openstreetmap.org/way/673146865
-way/435412982,Beachvolleyballfeld Seegüetli,,ZH,,47.236255920000005,8.66401056,false,yes,,sand,,,,,https://www.openstreetmap.org/way/435412982
-way/226526029,Beachvolleyballfeld Sekundarschule Rüti,,ZH,,47.2605579,8.846627571428572,false,,,sand,,,,,https://www.openstreetmap.org/way/226526029
-way/226528809,Beachvolleyballfeld Strandbad Uster,,ZH,,47.34010126,8.69319342,false,customers,,sand,,,,,https://www.openstreetmap.org/way/226528809
-way/674617377,Beachvolleyballfeld Strandbad Uster,,ZH,,47.340185979999994,8.693103019999999,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674617377
-way/40870110,Heerenschürli AW12,,ZH,,47.4031631,8.59223356,false,,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/40870110
-way/232384717,Volleyball,,ZH,,47.358315340000004,8.787308640000001,false,,,sand,,,,,https://www.openstreetmap.org/way/232384717
-node/10095472991,,,ZH,,47.5118794,8.6834272,false,,,sand,,,,,https://www.openstreetmap.org/node/10095472991
-way/5058649,,,ZH,,47.483886440000006,8.705753159999999,false,,,sand,,,,,https://www.openstreetmap.org/way/5058649
-way/28398310,,,ZH,,47.53356186,8.4694623,false,,,,,,,,https://www.openstreetmap.org/way/28398310
-way/28662059,,,ZH,,47.42323644,8.566184340000001,false,yes,,sand,,,,,https://www.openstreetmap.org/way/28662059
-way/29374682,,,ZH,,47.38609684000001,8.534655879999999,false,yes,,,,,,,https://www.openstreetmap.org/way/29374682
-way/35168677,,,ZH,,47.26338738,8.679155399999999,false,,,sand,,,,,https://www.openstreetmap.org/way/35168677
-way/35478496,,,ZH,,47.212038240000005,8.70549718,false,,,sand,,,,,https://www.openstreetmap.org/way/35478496
-way/63067794,,,ZH,,47.47319372,8.70860604,false,,,,,,,,https://www.openstreetmap.org/way/63067794
-way/87813287,,,ZH,,47.40419412,8.53999302,false,,,sand,,,,,https://www.openstreetmap.org/way/87813287
-way/92119398,,,ZH,,47.29362554,8.55672518,false,,,sand,,,,,https://www.openstreetmap.org/way/92119398
-way/95676047,,,ZH,,47.32131038,8.470867660000001,false,,,sand,,,,,https://www.openstreetmap.org/way/95676047
-way/107536339,,,ZH,,47.47320222,8.70878738,false,,,,,,,,https://www.openstreetmap.org/way/107536339
-way/127048895,,,ZH,,47.26201698,8.42752488,false,,,,,,,,https://www.openstreetmap.org/way/127048895
-way/127049275,,,ZH,,47.38594326,8.524331759999999,false,yes,,sand,,,,,https://www.openstreetmap.org/way/127049275
-way/135309323,,,ZH,,47.24638932,8.706806140000001,false,,,sand,,,,,https://www.openstreetmap.org/way/135309323
-way/136505911,,,ZH,,47.50253712,8.791410799999998,false,,,sand,,,,,https://www.openstreetmap.org/way/136505911
-way/136505916,,,ZH,,47.420751880000005,8.700913179999999,false,,,sand,,,,,https://www.openstreetmap.org/way/136505916
-way/136505929,,,ZH,,47.53974632,8.73428854,false,,,sand,,,,,https://www.openstreetmap.org/way/136505929
-way/158527285,,,ZH,,47.44364436666666,8.581994133333334,false,,,sand,,,,,https://www.openstreetmap.org/way/158527285
-way/158527293,,,ZH,,47.44357042,8.58191608,false,,,sand,,,,,https://www.openstreetmap.org/way/158527293
-way/165256015,,,ZH,,47.55122408,8.78886402,false,yes,,sand,,,,,https://www.openstreetmap.org/way/165256015
-way/165353931,,,ZH,,47.50447916,8.735786460000002,false,,,,,,,,https://www.openstreetmap.org/way/165353931
-way/170472319,,,ZH,,47.509487179999994,8.64292092,false,,,sand,,,,,https://www.openstreetmap.org/way/170472319
-way/173382416,,,ZH,,47.550402,8.712361079999999,false,,,,,,,,https://www.openstreetmap.org/way/173382416
-way/175818949,,,ZH,,47.51020414,8.751544759999998,false,,,,,,,,https://www.openstreetmap.org/way/175818949
-way/180134281,,,ZH,,47.530873220000004,8.67237104,false,,,sand,,,,,https://www.openstreetmap.org/way/180134281
-way/200970510,,,ZH,,47.51609234,8.76078914,false,,,sand,,,,,https://www.openstreetmap.org/way/200970510
-way/205940968,,,ZH,,47.44600802000001,8.69833776,false,permissive,,sand,,,,,https://www.openstreetmap.org/way/205940968
-way/211443383,,,ZH,,47.447101319999994,8.67858776,false,,,sand,,,,,https://www.openstreetmap.org/way/211443383
-way/229725497,,,ZH,,47.514195740000005,8.715093499999998,false,,,,,,,,https://www.openstreetmap.org/way/229725497
-way/235550010,,,ZH,,47.49547404,8.725942040000001,false,,,,,,,,https://www.openstreetmap.org/way/235550010
-way/236019408,,,ZH,,47.345792100000004,8.93280778,false,,,sand,,,,,https://www.openstreetmap.org/way/236019408
-way/249468959,,,ZH,,47.427542460000005,8.845851219999998,false,,,sand,,,,,https://www.openstreetmap.org/way/249468959
-way/255533160,,,ZH,,47.47995016,8.45623488,false,,,sand,,,,,https://www.openstreetmap.org/way/255533160
-way/258674305,,,ZH,,47.48186112,8.87298472,false,,,sand,,,,,https://www.openstreetmap.org/way/258674305
-way/260204562,,,ZH,,47.570523359999996,8.65013678,false,,,,,,,,https://www.openstreetmap.org/way/260204562
-way/263479925,,,ZH,,47.40665892,8.511587940000002,false,,,sand,,,,,https://www.openstreetmap.org/way/263479925
-way/288998599,,,ZH,,47.40257998,8.67396758,false,,,,,,,,https://www.openstreetmap.org/way/288998599
-way/291114318,,,ZH,,47.282201439999994,8.76386802,false,,,sand,,,,,https://www.openstreetmap.org/way/291114318
-way/291682596,,,ZH,,47.49908288,8.37665786,false,,,sand,,,,,https://www.openstreetmap.org/way/291682596
-way/293828594,,,ZH,,47.38073197999999,8.477813780000002,false,yes,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/293828594
-way/293829439,,,ZH,,47.40484328,8.60884234,false,,,sand,,,,,https://www.openstreetmap.org/way/293829439
-way/295475506,,,ZH,,47.63023948,8.65024724,false,,,sand,,,,,https://www.openstreetmap.org/way/295475506
-way/306597211,,,ZH,,47.242249,8.711708179999999,false,,,sand,,,,,https://www.openstreetmap.org/way/306597211
-way/307493253,,,ZH,,47.52866540000001,8.78890364,false,,,sand,,,,,https://www.openstreetmap.org/way/307493253
-way/308326181,,,ZH,,47.24039056,8.46884996,false,,,sand,,,,,https://www.openstreetmap.org/way/308326181
-way/314121958,,,ZH,,47.513952239999995,8.53689492,false,,,,,,,,https://www.openstreetmap.org/way/314121958
-way/315049697,,,ZH,,47.261838239999996,8.84054802,false,customers,,sand,,,,,https://www.openstreetmap.org/way/315049697
-way/325830426,,,ZH,,47.27817766,8.459102560000002,false,,,sand,,,,,https://www.openstreetmap.org/way/325830426
-way/328806221,,,ZH,,47.24115204,8.538835839999999,false,,,sand,,,,,https://www.openstreetmap.org/way/328806221
-way/354486039,,,ZH,,47.61277108,8.72803698,false,,,sand,,,,,https://www.openstreetmap.org/way/354486039
-way/366648155,,,ZH,,47.38307618,8.57442704,false,,,sand,,,,,https://www.openstreetmap.org/way/366648155
-way/366648156,,,ZH,,47.3828632,8.574209040000001,false,,,sand,,,,,https://www.openstreetmap.org/way/366648156
-way/370498739,,,ZH,,47.43645239999999,8.77000098,false,,,sand,,,,,https://www.openstreetmap.org/way/370498739
-way/385619138,,,ZH,,47.310390999999996,8.58388554,false,,,sand,,,,,https://www.openstreetmap.org/way/385619138
-way/385620179,,,ZH,,47.31365132,8.58562116,false,,,sand,,,,,https://www.openstreetmap.org/way/385620179
-way/390097860,,,ZH,,47.37157478,8.49664564,false,yes,,sand,,,,,https://www.openstreetmap.org/way/390097860
-way/406267588,,,ZH,,47.2992534,8.693347020000001,false,,,sand,,,,,https://www.openstreetmap.org/way/406267588
-way/466468759,,,ZH,,47.559782,8.49275466,false,,,,,,,,https://www.openstreetmap.org/way/466468759
-way/468488484,,,ZH,,47.40745514,8.388484700000001,false,,,sand,,,,,https://www.openstreetmap.org/way/468488484
-way/532603474,,,ZH,,47.5180883,8.5492104,false,,,sand,,,,,https://www.openstreetmap.org/way/532603474
-way/538009461,,,ZH,,47.5184983,8.550124180000001,false,,,sand,,,,,https://www.openstreetmap.org/way/538009461
-way/568519672,,,ZH,,47.59950364,8.67551866,false,,,sand,,,,,https://www.openstreetmap.org/way/568519672
-way/581831283,,,ZH,,47.44334706666667,8.582193016666666,false,,,sand,,,,,https://www.openstreetmap.org/way/581831283
-way/581831284,,,ZH,,47.443442483333335,8.582009766666667,false,,,sand,,,,,https://www.openstreetmap.org/way/581831284
-way/600697301,,,ZH,,47.33072846,8.6216814,false,,,,,,,,https://www.openstreetmap.org/way/600697301
-way/612348461,,,ZH,,47.6867042,8.6579834,false,,,sand,,,,,https://www.openstreetmap.org/way/612348461
-way/661689900,,,ZH,,47.2549516,8.61805646,false,,,sand,,,,,https://www.openstreetmap.org/way/661689900
-way/674201418,,,ZH,,47.40414189999999,8.53986368,false,,,sand,,,,,https://www.openstreetmap.org/way/674201418
-way/674201419,,,ZH,,47.40407906,8.5397105,false,,,sand,,,,,https://www.openstreetmap.org/way/674201419
-way/674201420,,,ZH,,47.40401252,8.53953946,false,,,sand,,,,,https://www.openstreetmap.org/way/674201420
-way/674496431,,,ZH,,47.4087947,8.53403108,false,,,sand,,,,,https://www.openstreetmap.org/way/674496431
-way/674500110,,,ZH,,47.385910849999995,8.5349444,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674500110
-way/674501276,,,ZH,,47.3808285,8.477815500000002,false,yes,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/674501276
-way/674501277,,,ZH,,47.38094916,8.47781766,false,yes,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/674501277
-way/674502355,,,ZH,,47.38291188,8.574612080000001,false,,,sand,,,,,https://www.openstreetmap.org/way/674502355
-way/674505454,,,ZH,,47.34047334,8.5335801,false,,,sand,,,,,https://www.openstreetmap.org/way/674505454
-way/674506157,,,ZH,,47.405281880000004,8.48995832,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674506157
-way/674612280,,,ZH,,47.40674526,8.511495120000001,false,,,sand,,,,,https://www.openstreetmap.org/way/674612280
-way/674615142,,,ZH,,47.42319338,8.623711140000001,false,customers,,sand,,,,,https://www.openstreetmap.org/way/674615142
-way/674619760,,,ZH,,47.44354811666667,8.581732933333333,false,,,sand,,,,,https://www.openstreetmap.org/way/674619760
-way/674619761,,,ZH,,47.44328370000001,8.58232462,false,,,sand,,,,,https://www.openstreetmap.org/way/674619761
-way/744718752,,,ZH,,47.27542074,8.57559558,false,,,sand,,,,,https://www.openstreetmap.org/way/744718752
-way/814934146,,,ZH,,47.3542805,8.432022139999999,false,,,,,,,,https://www.openstreetmap.org/way/814934146
-way/821770391,,,ZH,,47.26952532,8.49193644,false,,,sand,,,,,https://www.openstreetmap.org/way/821770391
-way/837563413,,,ZH,,47.389668140000005,8.7571914,false,,,sand,,,,,https://www.openstreetmap.org/way/837563413
-way/846047490,,,ZH,,47.25884218,8.819813540000002,false,,,sand,,,,,https://www.openstreetmap.org/way/846047490
-way/885039203,,,ZH,,47.36106284,8.72545602,false,,,sand,,,,,https://www.openstreetmap.org/way/885039203
-way/885039204,,,ZH,,47.3609631,8.725377260000002,false,,,sand,,,,,https://www.openstreetmap.org/way/885039204
-way/885039205,,,ZH,,47.3608701,8.725300039999999,false,,,sand,,,,,https://www.openstreetmap.org/way/885039205
-way/950118139,,,ZH,,47.51181378,8.683467480000001,false,,,,,,,,https://www.openstreetmap.org/way/950118139
-way/951792716,,,ZH,,47.24345026,8.64931718,false,private,,sand,,,,,https://www.openstreetmap.org/way/951792716
-way/963176924,,,ZH,,47.31993860000001,8.5825919,false,,,sand,,,,,https://www.openstreetmap.org/way/963176924
-way/966797534,,,ZH,,47.34503746,8.58284162,false,customers,,sand,,,,,https://www.openstreetmap.org/way/966797534
-way/969494754,,,ZH,,47.66687444,8.616864520000002,false,,,,,,,,https://www.openstreetmap.org/way/969494754
-way/970853535,,,ZH,,47.26351146,8.67918448,false,,,sand,,,,,https://www.openstreetmap.org/way/970853535
-way/1043084212,,,ZH,,47.34508906,8.583012960000001,false,customers,,sand,,,,,https://www.openstreetmap.org/way/1043084212
-way/1043084582,,,ZH,,47.32002101428572,8.582790771428572,false,,,sand,,,,,https://www.openstreetmap.org/way/1043084582
-way/1071282273,,,ZH,,47.41807796,8.59511198,false,customers,,sand,,,,,https://www.openstreetmap.org/way/1071282273
-way/1078456188,,,ZH,,47.33831692,8.65292862,false,,,sand,,,,,https://www.openstreetmap.org/way/1078456188
-way/1083775872,,,ZH,,47.25889788,8.8199481,false,,,sand,,,,,https://www.openstreetmap.org/way/1083775872
-way/1093827909,,,ZH,,47.60620834,8.53833788,false,,,sand,,,,,https://www.openstreetmap.org/way/1093827909
-way/1118428869,,,ZH,,47.21802362,8.68008604,false,,,grass,ZHAW,,,,https://www.openstreetmap.org/way/1118428869
-way/1131220944,,,ZH,,47.358495399999995,8.723991600000002,false,,,,,,,,https://www.openstreetmap.org/way/1131220944
-way/1159350299,,,ZH,,47.26630944,8.42796046,false,,,sand,,,,,https://www.openstreetmap.org/way/1159350299
-way/1162411380,,,ZH,,47.35328554,8.663423,false,,,sand,,,,,https://www.openstreetmap.org/way/1162411380
-way/1174706648,,,ZH,,47.272853999999995,8.85270194,false,,,sand,,,,,https://www.openstreetmap.org/way/1174706648
-way/1181705729,,,ZH,,47.376191139999996,8.680726179999999,false,,,sand,,,,,https://www.openstreetmap.org/way/1181705729
-way/1181705730,,,ZH,,47.37603644,8.68060684,false,,,sand,,,,,https://www.openstreetmap.org/way/1181705730
-way/1373171355,,,ZH,,47.50275112,8.714554699999999,false,,,sand,,,,,https://www.openstreetmap.org/way/1373171355
-way/1373171356,,,ZH,,47.50279551999999,8.714421859999998,false,,,sand,,,,,https://www.openstreetmap.org/way/1373171356
-way/1373171357,,,ZH,,47.50283932000001,8.714289399999998,false,,,sand,,,,,https://www.openstreetmap.org/way/1373171357
-way/1221437131,Beachvolleyballplatz,,,,47.79259648,8.690628659999998,false,,,,,,,,https://www.openstreetmap.org/way/1221437131
-way/120059385,,,,,47.740765716666665,8.7684817,false,,,,,,,,https://www.openstreetmap.org/way/120059385
-way/204594452,,,,,47.72039138,8.86491234,false,,,,,,,,https://www.openstreetmap.org/way/204594452
-way/211912495,,,,,47.62502438,8.40841188,false,,,,,,,,https://www.openstreetmap.org/way/211912495
-way/229862139,,,,,47.7150538,8.96499848,false,,,sand,,,,,https://www.openstreetmap.org/way/229862139
-way/230058061,,,,,47.68861506,8.762788420000001,false,,,,,,,,https://www.openstreetmap.org/way/230058061
-way/272345373,,,,,47.72805032,8.998288339999998,false,customers,,sand,,,,,https://www.openstreetmap.org/way/272345373
-way/289033615,,,,,47.7406963,8.768358300000001,false,,,,,,,,https://www.openstreetmap.org/way/289033615
-way/314231103,,,,,47.65249394,8.42680326,false,,,sand,,,,,https://www.openstreetmap.org/way/314231103
-way/441275723,,,,,47.72281968,8.943820400000002,false,,,sand,,,,,https://www.openstreetmap.org/way/441275723
-way/484368410,,,,,47.56727638,8.43201652,false,,,sand,,,,,https://www.openstreetmap.org/way/484368410
-way/485022371,,,,,47.624254099999995,8.319031960000002,false,,,sand,,,,,https://www.openstreetmap.org/way/485022371
-way/527603340,,,,,47.738579279999996,8.9833368,false,,,sand,,,,,https://www.openstreetmap.org/way/527603340
-way/537527902,,,,,47.76424114,8.77400818,false,,,sand,,,,,https://www.openstreetmap.org/way/537527902
-way/549389284,,,,,47.74566984,8.3015984,false,,,sand,,,,,https://www.openstreetmap.org/way/549389284
-way/593786144,,,,,47.79041114,8.789389279999998,false,,,sand,,,,,https://www.openstreetmap.org/way/593786144
-way/615941818,,,,,47.655166060000006,8.89097958,false,,,sand,,,,,https://www.openstreetmap.org/way/615941818
-way/798212249,,,,,47.75312577999999,8.8430352,false,,,sand,,,,,https://www.openstreetmap.org/way/798212249
-way/837114828,,,,,47.60866462,8.59792748,false,,,sand,,,,,https://www.openstreetmap.org/way/837114828
-way/964862269,,,,,47.699601740000006,8.40073648,false,,,sand,,,,,https://www.openstreetmap.org/way/964862269
-way/1026138501,,,,,47.679594779999995,8.98087986,false,,,sand,,,,,https://www.openstreetmap.org/way/1026138501
-way/1055032633,,,,,47.65966992,8.93691314,false,,,sand,,,,,https://www.openstreetmap.org/way/1055032633
-way/1179938547,,,,,47.68743418,8.99706252,false,,,sand,,,,,https://www.openstreetmap.org/way/1179938547
-way/1221891167,,,,,47.77709852,8.435430180000001,false,,,,,,,,https://www.openstreetmap.org/way/1221891167
-way/1249001276,,,,,47.72965402000001,8.991989900000002,false,,,sand,,,,,https://www.openstreetmap.org/way/1249001276
+id,name,street,municipality,canton,postcode,lat,lon,indoor,access,fee,surface,operator,website,phone,openingHours,osmUrl
+way/264198994,Beach Volleyball Court Au,Seeweg,Wädenswil,ZH,8820,47.25009868,8.632231,false,yes,,sand,,,,,https://www.openstreetmap.org/way/264198994
+way/674503538,beach volleyball court Fischer's Fritz,Horngasse,Kilchberg,ZH,8802,47.3357871,8.54199064,false,,,sand,,,,,https://www.openstreetmap.org/way/674503538
+way/264195133,beach volleyball court Rainweg,Berghaldenweg,Horgen,ZH,8810,47.256540539999996,8.599490980000002,false,,,sand,,,,,https://www.openstreetmap.org/way/264195133
+way/381085547,Beach Volleyball-Feld,Oberer Deutweg,Winterthur,ZH,8411,47.495006079999996,8.74488212,false,,false,sand,,,,"Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",https://www.openstreetmap.org/way/381085547
+way/489129650,Beach Volleyball-Feld,Oberer Deutweg,Winterthur,ZH,8411,47.49490878,8.74499172,false,,,sand,,,,"Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",https://www.openstreetmap.org/way/489129650
+way/489129652,Beach Volleyball-Feld,Oberer Deutweg,Winterthur,ZH,8411,47.49481448,8.745099720000002,false,,,sand,,,,"Apr-Oct Mo-Sa 08:00-12:00,13:00-22:00; Apr-Oct Su,PH 10:00-12:00,13:00-20:00",https://www.openstreetmap.org/way/489129652
+way/1176166149,Beachvolleyball,Sonnenbergstrasse,Adliswil,ZH,8134,47.31141744,8.52061196,false,,,sand,,,,,https://www.openstreetmap.org/way/1176166149
+way/1178308564,Beachvolleyball,Schwellistrasse,Andelfingen,ZH,8450,47.59627816,8.67169612,false,,,sand,,,,,https://www.openstreetmap.org/way/1178308564
+way/1227330063,Beachvolleyball,Breitwiesstrasse,Langnau am Albis,ZH,8135,47.289284959999996,8.542272700000002,false,,,sand,,,,,https://www.openstreetmap.org/way/1227330063
+way/179196884,Beachvolleyball Gries,Usterstrasse,Volketswil,ZH,8604,47.38534578,8.68083316,false,,,sand,,,,,https://www.openstreetmap.org/way/179196884
+way/674506153,Beachvolleyball Juchhof 1,Bernerstrasse,Zürich,ZH,8064,47.39760862,8.474769319999998,false,customers,,sand,,,,,https://www.openstreetmap.org/way/674506153
+way/852468608,Beachvolleyball Neunbrunnenstrasse,Weisshau,Zürich,ZH,8052,47.41748021666666,8.541382016666667,false,yes,,sand,,,,,https://www.openstreetmap.org/way/852468608
+way/674186503,Beachvolleyball Sihlhölzli,Manessestrasse,Zürich,ZH,8002,47.36909212,8.52658066,false,,,sand,,,,,https://www.openstreetmap.org/way/674186503
+way/1165021764,Beachvolleyball-Anlage,Austrasse,Rickenbach ZH,ZH,8545,47.55161016,8.79251926,false,,,sand,,,,,https://www.openstreetmap.org/way/1165021764
+way/1445447809,Beachvolleyballfeld,Rällikerstrasse,Mönchaltorf,ZH,8617,47.30928304,8.71778354,false,yes,,sand,,,,,https://www.openstreetmap.org/way/1445447809
+way/40231966,Beachvolleyballfeld Freibad Oberdorf,Eichstockweg,Dübendorf,ZH,8600,47.39328958,8.625359940000001,false,customers,,sand,,,,,https://www.openstreetmap.org/way/40231966
+way/442559353,Beachvolleyballfeld Freibad Seebach,Am Katzenbach,Zürich,ZH,8052,47.42425518,8.54571976,false,customers,,sand,Freibad Seebach,,,,https://www.openstreetmap.org/way/442559353
+way/285303275,Beachvolleyballfeld Freibad zwischen den Hölzern,Frankentalerstrasse,Zürich,ZH,8102,47.409424959999996,8.47615602,false,customers,,sand,Freibad Zwischen den Hölzern,,,,https://www.openstreetmap.org/way/285303275
+way/674613630,Beachvolleyballfeld Fronwald,Kunzweg,Zürich,ZH,8046,47.42149278,8.509826900000002,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674613630
+way/675068517,Beachvolleyballfeld im Moos,Schulstrasse,Schlieren,ZH,8952,47.39661592,8.45810984,false,,,sand,,,,,https://www.openstreetmap.org/way/675068517
+way/245489522,Beachvolleyballfeld Meierwiesen,Meierwiesen,Wetzikon ZH,ZH,8620,47.31580192,8.80060248,false,,,sand,,,,,https://www.openstreetmap.org/way/245489522
+way/245489528,Beachvolleyballfeld Meierwiesen,Meierwiesen,Wetzikon ZH,ZH,8620,47.31570172000001,8.80051294,false,,,sand,,,,,https://www.openstreetmap.org/way/245489528
+way/245489532,Beachvolleyballfeld Meierwiesen,Meierwiesen,Wetzikon ZH,ZH,8620,47.31560154,8.8004234,false,,,sand,,,,,https://www.openstreetmap.org/way/245489532
+way/122972896,Beachvolleyballfeld Rüschlikon,Seestrasse,Rüschlikon,ZH,8803,47.31081896,8.55688302,false,yes,,sand,,,,,https://www.openstreetmap.org/way/122972896
+way/245637795,Beachvolleyballfeld Schulhaus Buhnrain,Höhenring,Zürich,ZH,8052,47.42016162,8.54184036,false,yes,,sand,,,,,https://www.openstreetmap.org/way/245637795
+way/674614911,Beachvolleyballfeld Schulhaus Stettbach,Dübendorfstrasse,Zürich,ZH,8051,47.40186562,8.579759319999999,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674614911
+way/673146865,Beachvolleyballfeld Schwimmbad Wald,Werkstrasse,Wald,ZH,8636,47.27860158,8.9127771,false,,,sand,,,,,https://www.openstreetmap.org/way/673146865
+way/435412982,Beachvolleyballfeld Seegüetli,Seeweg,Wädenswil,ZH,8820,47.236255920000005,8.66401056,false,yes,,sand,,,,,https://www.openstreetmap.org/way/435412982
+way/226526029,Beachvolleyballfeld Sekundarschule Rüti,Schanzweg,Rüti (ZH),ZH,8632,47.2605579,8.846627571428572,false,,,sand,,,,,https://www.openstreetmap.org/way/226526029
+way/226528809,Beachvolleyballfeld Strandbad Uster,Uferweg,Uster,ZH,9610,47.34010126,8.69319342,false,customers,,sand,,,,,https://www.openstreetmap.org/way/226528809
+way/674617377,Beachvolleyballfeld Strandbad Uster,Uferweg,Uster,ZH,9610,47.340185979999994,8.693103019999999,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674617377
+way/40870110,Heerenschürli AW12,Helen-Keller-Strasse,Zürich,ZH,8301,47.4031631,8.59223356,false,,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/40870110
+way/232384717,Volleyball,Baumenstrasse,Pfäffikon ZH,ZH,8330,47.358315340000004,8.787308640000001,false,,,sand,,,,,https://www.openstreetmap.org/way/232384717
+node/10095472991,,Johannes-Beugger-Strasse,Winterthur,ZH,8408,47.5118794,8.6834272,false,,,sand,,,,,https://www.openstreetmap.org/node/10095472991
+way/5058649,,Auwiesenstrasse,Winterthur,ZH,8406,47.483886440000006,8.705753159999999,false,,,sand,,,,,https://www.openstreetmap.org/way/5058649
+way/28398310,,Neuwisstrasse,Stadel,ZH,8174,47.53356186,8.4694623,false,,,,,,,,https://www.openstreetmap.org/way/28398310
+way/28662059,,Piccard-Platz,Glattbrugg,ZH,8152,47.42323644,8.566184340000001,false,yes,,sand,,,,,https://www.openstreetmap.org/way/28662059
+way/29374682,,Lux-Guyer-Weg,Zürich,ZH,8031,47.38609684000001,8.534655879999999,false,yes,,,,,,,https://www.openstreetmap.org/way/29374682
+way/35168677,,Bachweg,Uetikon am See,ZH,8707,47.26338738,8.679155399999999,false,,,sand,,,,,https://www.openstreetmap.org/way/35168677
+way/35478496,,Hornstrasse,Richterswil,ZH,8805,47.212038240000005,8.70549718,false,,,sand,,,,,https://www.openstreetmap.org/way/35478496
+way/63067794,,Reitplatzstrasse,Winterthur,ZH,8406,47.47319372,8.70860604,false,,,,,,,,https://www.openstreetmap.org/way/63067794
+way/87813287,,Allenmoosstrasse,Zürich,ZH,8057,47.40419412,8.53999302,false,,,sand,,,,,https://www.openstreetmap.org/way/87813287
+way/92119398,,,Thalwil,ZH,8800,47.29362554,8.55672518,false,,,sand,,,,,https://www.openstreetmap.org/way/92119398
+way/95676047,,Stegmattenweg,Bonstetten,ZH,8906,47.32131038,8.470867660000001,false,,,sand,,,,,https://www.openstreetmap.org/way/95676047
+way/107536339,,Reitplatzstrasse,Winterthur,ZH,8406,47.47320222,8.70878738,false,,,,,,,,https://www.openstreetmap.org/way/107536339
+way/127048895,,Lindenmatt,Obfelden,ZH,8912,47.26201698,8.42752488,false,,,,,,,,https://www.openstreetmap.org/way/127048895
+way/127049275,,Josefstrasse,Zürich,ZH,8005,47.38594326,8.524331759999999,false,yes,,sand,,,,,https://www.openstreetmap.org/way/127049275
+way/135309323,,Ziegelhüttenweg,Männedorf,ZH,8708,47.24638932,8.706806140000001,false,,,sand,,,,,https://www.openstreetmap.org/way/135309323
+way/136505911,,Chännerwisstrasse,Rümikon,ZH,8352,47.50253712,8.791410799999998,false,,,sand,,,,,https://www.openstreetmap.org/way/136505911
+way/136505916,,Sportplatzstrasse,Illnau-Effretikon,ZH,8307,47.420751880000005,8.700913179999999,false,,,sand,,,,,https://www.openstreetmap.org/way/136505916
+way/136505929,,Welsikonerstrasse,Seuzach,ZH,8472,47.53974632,8.73428854,false,,,sand,,,,,https://www.openstreetmap.org/way/136505929
+way/158527285,,Schwimmbadstrasse,Kloten,ZH,8302,47.44364436666666,8.581994133333334,false,,,sand,,,,,https://www.openstreetmap.org/way/158527285
+way/158527293,,Schwimmbadstrasse,Kloten,ZH,8302,47.44357042,8.58191608,false,,,sand,,,,,https://www.openstreetmap.org/way/158527293
+way/165256015,,Schwimmbadstrasse,Rickenbach ZH,ZH,8545,47.55122408,8.78886402,false,yes,,sand,,,,,https://www.openstreetmap.org/way/165256015
+way/165353931,,Oststrasse,Winterthur,ZH,8402,47.50447916,8.735786460000002,false,,,,,,,,https://www.openstreetmap.org/way/165353931
+way/170472319,,Reckholdernstrasse,Pfungen,ZH,8422,47.509487179999994,8.64292092,false,,,sand,,,,,https://www.openstreetmap.org/way/170472319
+way/173382416,,Schwimmbadstrasse,Hettlingen,ZH,8442,47.550402,8.712361079999999,false,,,,,,,,https://www.openstreetmap.org/way/173382416
+way/175818949,,Bäumlistrasse,Winterthur,ZH,8404,47.51020414,8.751544759999998,false,,,,,,,,https://www.openstreetmap.org/way/175818949
+way/180134281,,Seuzachstrasse,Aesch (Neftenbach),ZH,8413,47.530873220000004,8.67237104,false,,,sand,,,,,https://www.openstreetmap.org/way/180134281
+way/200970510,,Arvenweg,Winterthur,ZH,8404,47.51609234,8.76078914,false,,,sand,,,,,https://www.openstreetmap.org/way/200970510
+way/205940968,,Badstrasse,Grafstal,ZH,8310,47.44600802000001,8.69833776,false,permissive,,sand,,,,,https://www.openstreetmap.org/way/205940968
+way/211443383,,Holzgatter,Winterberg ZH,ZH,8315,47.447101319999994,8.67858776,false,,,sand,,,,,https://www.openstreetmap.org/way/211443383
+way/229725497,,Rütihofstrasse,Winterthur,ZH,8407,47.514195740000005,8.715093499999998,false,,,,,,,,https://www.openstreetmap.org/way/229725497
+way/235550010,,Hochwachtstrasse,Winterthur,ZH,8401,47.49547404,8.725942040000001,false,,,,,,,,https://www.openstreetmap.org/way/235550010
+way/236019408,,Ohrütistrasse,Steg im Tösstal,ZH,8496,47.345792100000004,8.93280778,false,,,sand,,,,,https://www.openstreetmap.org/way/236019408
+way/249468959,,Tösstalstrasse,Turbenthal,ZH,8492,47.427542460000005,8.845851219999998,false,,,sand,,,,,https://www.openstreetmap.org/way/249468959
+way/255533160,,Geissackerstrasse,Dielsdorf,ZH,8157,47.47995016,8.45623488,false,,,sand,,,,,https://www.openstreetmap.org/way/255533160
+way/258674305,,Schwimmbadstrasse,Elgg,ZH,8353,47.48186112,8.87298472,false,,,sand,,,,,https://www.openstreetmap.org/way/258674305
+way/260204562,,Hünikonerstrasse,Dorf,ZH,8458,47.570523359999996,8.65013678,false,,,,,,,,https://www.openstreetmap.org/way/260204562
+way/263479925,,Wässerlingweg,Zürich,ZH,8039,47.40665892,8.511587940000002,false,,,sand,,,,,https://www.openstreetmap.org/way/263479925
+way/288998599,,Schwimmbadstrasse,Volketswil,ZH,8604,47.40257998,8.67396758,false,,,,,,,,https://www.openstreetmap.org/way/288998599
+way/291114318,,,Grüningen,ZH,8627,47.282201439999994,8.76386802,false,,,sand,,,,,https://www.openstreetmap.org/way/291114318
+way/291682596,,,Niederweningen,ZH,8166,47.49908288,8.37665786,false,,,sand,,,,,https://www.openstreetmap.org/way/291682596
+way/293828594,,Zwischenbächen,Zürich,ZH,8048,47.38073197999999,8.477813780000002,false,yes,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/293828594
+way/293829439,,Chriesbachweg,Dübendorf,ZH,8304,47.40484328,8.60884234,false,,,sand,,,,,https://www.openstreetmap.org/way/293829439
+way/295475506,,Weierwegli,Marthalen,ZH,8460,47.63023948,8.65024724,false,,,sand,,,,,https://www.openstreetmap.org/way/295475506
+way/306597211,,Seestrasse,Stäfa,ZH,8712,47.242249,8.711708179999999,false,,,sand,,,,,https://www.openstreetmap.org/way/306597211
+way/307493253,,Eggwaldstrasse,Wiesendangen,ZH,8542,47.52866540000001,8.78890364,false,,,sand,,,,,https://www.openstreetmap.org/way/307493253
+way/308326181,,Rossauerstrasse,Mettmenstetten,ZH,8932,47.24039056,8.46884996,false,,,sand,,,,,https://www.openstreetmap.org/way/308326181
+way/314121958,,Erachfeldstrasse,Bülach,ZH,8180,47.513952239999995,8.53689492,false,,,,,,,,https://www.openstreetmap.org/way/314121958
+way/315049697,,Cholgrueb-Weg,Tann,ZH,8632,47.261838239999996,8.84054802,false,customers,,sand,,,,,https://www.openstreetmap.org/way/315049697
+way/325830426,,Mühlebergstrasse,Affoltern am Albis,ZH,8910,47.27817766,8.459102560000002,false,,,sand,,,,,https://www.openstreetmap.org/way/325830426
+way/328806221,,Reto-Götschi-Weg,Hausen am Albis,ZH,8915,47.24115204,8.538835839999999,false,,,sand,,,,,https://www.openstreetmap.org/way/328806221
+way/354486039,,Guntibachstrasse,Ossingen,ZH,8475,47.61277108,8.72803698,false,,,sand,,,,,https://www.openstreetmap.org/way/354486039
+way/366648155,,Forrenweidstrasse,Zürich,ZH,8044,47.38307618,8.57442704,false,,,sand,,,,,https://www.openstreetmap.org/way/366648155
+way/366648156,,Forrenweidstrasse,Zürich,ZH,8044,47.3828632,8.574209040000001,false,,,sand,,,,,https://www.openstreetmap.org/way/366648156
+way/370498739,,Mettlenstrasse,Theilingen,ZH,8484,47.43645239999999,8.77000098,false,,,sand,,,,,https://www.openstreetmap.org/way/370498739
+way/385619138,,Seestrasse,Küsnacht,ZH,8700,47.310390999999996,8.58388554,false,,,sand,,,,,https://www.openstreetmap.org/way/385619138
+way/385620179,,Untere Heslibachstrasse,Küsnacht,ZH,8700,47.31365132,8.58562116,false,,,sand,,,,,https://www.openstreetmap.org/way/385620179
+way/390097860,,Espenhofweg,Zürich,ZH,8063,47.37157478,8.49664564,false,yes,,sand,,,,,https://www.openstreetmap.org/way/390097860
+way/406267588,,Südstrasse,Hinteregg,ZH,8132,47.2992534,8.693347020000001,false,,,sand,,,,,https://www.openstreetmap.org/way/406267588
+way/466468759,,Wisengrundstrasse,Glattfelden,ZH,8192,47.559782,8.49275466,false,,,,,,,,https://www.openstreetmap.org/way/466468759
+way/468488484,,Fondlistrasse,Dietikon,ZH,8953,47.40745514,8.388484700000001,false,,,sand,,,,,https://www.openstreetmap.org/way/468488484
+way/532603474,,Gstötztweg,Bülach,ZH,8180,47.5180883,8.5492104,false,,,sand,,,,,https://www.openstreetmap.org/way/532603474
+way/538009461,,Gstötztweg,Bülach,ZH,8180,47.5184983,8.550124180000001,false,,,sand,,,,,https://www.openstreetmap.org/way/538009461
+way/568519672,,Thurweg,Andelfingen,ZH,8450,47.59950364,8.67551866,false,,,sand,,,,,https://www.openstreetmap.org/way/568519672
+way/581831283,,Hasenbühlweg,Kloten,ZH,8302,47.44334706666667,8.582193016666666,false,,,sand,,,,,https://www.openstreetmap.org/way/581831283
+way/581831284,,Hasenbühlweg,Kloten,ZH,8302,47.443442483333335,8.582009766666667,false,,,sand,,,,,https://www.openstreetmap.org/way/581831284
+way/600697301,,Forchstrasse,Zumikon,ZH,8126,47.33072846,8.6216814,false,,,,,,,,https://www.openstreetmap.org/way/600697301
+way/612348461,,Hauptstrasse,Langwiesen,ZH,8246,47.6867042,8.6579834,false,,,sand,,,,,https://www.openstreetmap.org/way/612348461
+way/661689900,,Strandbadstrasse,Horgen,ZH,8810,47.2549516,8.61805646,false,,,sand,,,,,https://www.openstreetmap.org/way/661689900
+way/674201418,,Allenmoosstrasse,Zürich,ZH,8057,47.40414189999999,8.53986368,false,,,sand,,,,,https://www.openstreetmap.org/way/674201418
+way/674201419,,Allenmoosstrasse,Zürich,ZH,8057,47.40407906,8.5397105,false,,,sand,,,,,https://www.openstreetmap.org/way/674201419
+way/674201420,,Allenmoosstrasse,Zürich,ZH,8057,47.40401252,8.53953946,false,,,sand,,,,,https://www.openstreetmap.org/way/674201420
+way/674496431,,Aehrenweg,Zürich,ZH,8057,47.4087947,8.53403108,false,,,sand,,,,,https://www.openstreetmap.org/way/674496431
+way/674500110,,Lux-Guyer-Weg,Zürich,ZH,8031,47.385910849999995,8.5349444,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674500110
+way/674501276,,,Zürich,ZH,8048,47.3808285,8.477815500000002,false,yes,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/674501276
+way/674501277,,,Zürich,ZH,8048,47.38094916,8.47781766,false,yes,,sand,"Stadt Zürich, SSD, Sportamt",,,,https://www.openstreetmap.org/way/674501277
+way/674502355,,Forrenweidstrasse,Zürich,ZH,8044,47.38291188,8.574612080000001,false,,,sand,,,,,https://www.openstreetmap.org/way/674502355
+way/674505454,,Erdbrustweg,Zürich,ZH,8038,47.34047334,8.5335801,false,,,sand,,,,,https://www.openstreetmap.org/way/674505454
+way/674506157,,Riedhofstrasse,Zürich,ZH,8049,47.405281880000004,8.48995832,false,yes,,sand,,,,,https://www.openstreetmap.org/way/674506157
+way/674612280,,Wässerlingweg,Zürich,ZH,8039,47.40674526,8.511495120000001,false,,,sand,,,,,https://www.openstreetmap.org/way/674612280
+way/674615142,,Lindenbuckweg,Brüttisellen,ZH,8306,47.42319338,8.623711140000001,false,customers,,sand,,,,,https://www.openstreetmap.org/way/674615142
+way/674619760,,Hasenbühlweg,Kloten,ZH,8302,47.44354811666667,8.581732933333333,false,,,sand,,,,,https://www.openstreetmap.org/way/674619760
+way/674619761,,,Kloten,ZH,8302,47.44328370000001,8.58232462,false,,,sand,,,,,https://www.openstreetmap.org/way/674619761
+way/744718752,,Freihofstrasse,Oberrieden,ZH,8942,47.27542074,8.57559558,false,,,sand,,,,,https://www.openstreetmap.org/way/744718752
+way/814934146,,Gerenstrasse,Birmensdorf (ZH),ZH,8903,47.3542805,8.432022139999999,false,,,,,,,,https://www.openstreetmap.org/way/814934146
+way/821770391,,Boletstrasse,Aeugst am Albis,ZH,8914,47.26952532,8.49193644,false,,,sand,,,,,https://www.openstreetmap.org/way/821770391
+way/837563413,,Schulhausstrasse,Fehraltorf,ZH,8320,47.389668140000005,8.7571914,false,,,sand,,,,,https://www.openstreetmap.org/way/837563413
+way/846047490,,Strandbadweg,Bubikon,ZH,8608,47.25884218,8.819813540000002,false,,,sand,,,,,https://www.openstreetmap.org/way/846047490
+way/885039203,,Gschwaderstrasse,Uster,ZH,8615,47.36106284,8.72545602,false,,,sand,,,,,https://www.openstreetmap.org/way/885039203
+way/885039204,,Gschwaderstrasse,Uster,ZH,8615,47.3609631,8.725377260000002,false,,,sand,,,,,https://www.openstreetmap.org/way/885039204
+way/885039205,,Gschwaderstrasse,Uster,ZH,8615,47.3608701,8.725300039999999,false,,,sand,,,,,https://www.openstreetmap.org/way/885039205
+way/950118139,,Johannes-Beugger-Strasse,Winterthur,ZH,8408,47.51181378,8.683467480000001,false,,,,,,,,https://www.openstreetmap.org/way/950118139
+way/951792716,,Mittelortweg,Wädenswil,ZH,8820,47.24345026,8.64931718,false,private,,sand,,,,,https://www.openstreetmap.org/way/951792716
+way/963176924,,Rosenstrasse,Küsnacht,ZH,8700,47.31993860000001,8.5825919,false,,,sand,,,,,https://www.openstreetmap.org/way/963176924
+way/966797534,,Fohrbachstrasse,Zollikon,ZH,8702,47.34503746,8.58284162,false,customers,,sand,,,,,https://www.openstreetmap.org/way/966797534
+way/969494754,,Zubenackerstrasse,Dachsen,ZH,8447,47.66687444,8.616864520000002,false,,,,,,,,https://www.openstreetmap.org/way/969494754
+way/970853535,,Bachweg,Uetikon am See,ZH,8707,47.26351146,8.67918448,false,,,sand,,,,,https://www.openstreetmap.org/way/970853535
+way/1043084212,,Fohrbachstrasse,Zollikon,ZH,8702,47.34508906,8.583012960000001,false,customers,,sand,,,,,https://www.openstreetmap.org/way/1043084212
+way/1043084582,,Wangensbachstrasse,Küsnacht,ZH,8700,47.32002101428572,8.582790771428572,false,,,sand,,,,,https://www.openstreetmap.org/way/1043084582
+way/1071282273,,Alte Winterthurerstrasse,Wallisellen,ZH,8304,47.41807796,8.59511198,false,customers,,sand,,,,,https://www.openstreetmap.org/way/1071282273
+way/1078456188,,Karoweg,Aesch,ZH,8127,47.33831692,8.65292862,false,,,sand,,,,,https://www.openstreetmap.org/way/1078456188
+way/1083775872,,Strandbadweg,Bubikon,ZH,8608,47.25889788,8.8199481,false,,,sand,,,,,https://www.openstreetmap.org/way/1083775872
+way/1093827909,,Chüewäg,Rafz,ZH,8197,47.60620834,8.53833788,false,,,sand,,,,,https://www.openstreetmap.org/way/1093827909
+way/1118428869,,Grüentalstrasse,Wädenswil,ZH,8820,47.21802362,8.68008604,false,,,grass,ZHAW,,,,https://www.openstreetmap.org/way/1118428869
+way/1131220944,,Reitplatzweg,Uster,ZH,8615,47.358495399999995,8.723991600000002,false,,,,,,,,https://www.openstreetmap.org/way/1131220944
+way/1159350299,,Alte Landstrasse,Obfelden,ZH,8912,47.26630944,8.42796046,false,,,sand,,,,,https://www.openstreetmap.org/way/1159350299
+way/1162411380,,Murmer Seeweg,Maur,ZH,8124,47.35328554,8.663423,false,,,sand,,,,,https://www.openstreetmap.org/way/1162411380
+way/1174706648,,Nauenstrasse,Tann,ZH,8635,47.272853999999995,8.85270194,false,,,sand,,,,,https://www.openstreetmap.org/way/1174706648
+way/1181705729,,Grossrietweg,Uster,ZH,8606,47.376191139999996,8.680726179999999,false,,,sand,,,,,https://www.openstreetmap.org/way/1181705729
+way/1181705730,,Grossrietweg,Uster,ZH,8606,47.37603644,8.68060684,false,,,sand,,,,,https://www.openstreetmap.org/way/1181705730
+way/1373171355,,Rennweg,Winterthur,ZH,8401,47.50275112,8.714554699999999,false,,,sand,,,,,https://www.openstreetmap.org/way/1373171355
+way/1373171356,,Rennweg,Winterthur,ZH,8401,47.50279551999999,8.714421859999998,false,,,sand,,,,,https://www.openstreetmap.org/way/1373171356
+way/1373171357,,Rennweg,Winterthur,ZH,8401,47.50283932000001,8.714289399999998,false,,,sand,,,,,https://www.openstreetmap.org/way/1373171357

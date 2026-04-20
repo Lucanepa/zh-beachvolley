@@ -7,13 +7,18 @@ export interface BBox {
   east: number;
 }
 
-/** Greater Zurich: Canton ZH + a buffer into AG / ZG / SZ / SG / TG / SH. */
-export const GREATER_ZURICH_BBOX: BBox = {
-  south: 47.1,
-  west: 8.3,
-  north: 47.8,
-  east: 9.0,
+/** Canton Zürich (tight-ish rectangle; the spatial join in normalize.ts
+ *  discards stragglers that leak in from the neighboring cantons). */
+export const CANTON_ZH_BBOX: BBox = {
+  south: 47.15,
+  west: 8.37,
+  north: 47.71,
+  east: 8.99,
 };
+
+/** @deprecated Use {@link CANTON_ZH_BBOX}. Kept as an alias for any
+ *  external script that imported the old name. */
+export const GREATER_ZURICH_BBOX = CANTON_ZH_BBOX;
 
 const OVERPASS_ENDPOINTS = [
   "https://overpass-api.de/api/interpreter",
@@ -21,16 +26,22 @@ const OVERPASS_ENDPOINTS = [
   "https://overpass.openstreetmap.fr/api/interpreter",
 ];
 
-export function buildQuery(bbox: BBox = GREATER_ZURICH_BBOX): string {
+export function buildQuery(bbox: BBox = CANTON_ZH_BBOX): string {
   const { south, west, north, east } = bbox;
   const b = `${south},${west},${north},${east}`;
-  // Both tag spellings appear in the wild. `beach_volleyball` is the
-  // wiki-blessed form; `beachvolleyball` still exists on older edits.
+  // Courts + enclosing halls in one round-trip. Both `beach_volleyball`
+  // and the legacy `beachvolleyball` spelling are accepted. Halls are
+  // used in normalize.ts to infer indoor=true when the pitch itself
+  // doesn't carry the tag (common in OSM).
   return `
 [out:json][timeout:60];
 (
   nwr["sport"="beach_volleyball"](${b});
   nwr["sport"="beachvolleyball"](${b});
+  way["building"="sports_hall"](${b});
+  relation["building"="sports_hall"](${b});
+  way["leisure"="sports_centre"](${b});
+  relation["leisure"="sports_centre"](${b});
 );
 out geom;
 `.trim();

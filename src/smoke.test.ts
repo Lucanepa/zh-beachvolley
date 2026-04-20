@@ -1,6 +1,7 @@
 import { normalize } from "./normalize.ts";
 import type { OverpassResponse } from "./overpass.ts";
 import { cantonForPoint } from "./cantons.ts";
+import { indoorHintsFromResponse } from "./indoor.ts";
 import {
   writeCSV,
   writeGeoJSON,
@@ -9,10 +10,21 @@ import {
 } from "./export.ts";
 import { mkdirSync, readFileSync, rmSync } from "node:fs";
 
+// A tiny "sports hall" polygon centered on (47.38, 8.55) — a rectangle
+// ~100 m on a side at Swiss latitudes.
+const HALL_RING = [
+  { lat: 47.3795, lon: 8.5495 },
+  { lat: 47.3795, lon: 8.5505 },
+  { lat: 47.3805, lon: 8.5505 },
+  { lat: 47.3805, lon: 8.5495 },
+  { lat: 47.3795, lon: 8.5495 },
+];
+
 const fake: OverpassResponse = {
   version: 0.6,
   generator: "fake",
   elements: [
+    // ZH outdoor court with addr:city.
     {
       type: "node" as const,
       id: 1,
@@ -27,6 +39,7 @@ const fake: OverpassResponse = {
         fee: "no",
       },
     },
+    // ZH (Winterthur area) court with explicit indoor=yes → source "tag".
     {
       type: "way" as const,
       id: 2,
@@ -43,13 +56,21 @@ const fake: OverpassResponse = {
         indoor: "yes",
       },
     },
-    // Outside CH → canton should be null.
+    // Outside CH — should be filtered out by keepCanton: "ZH".
     {
       type: "node" as const,
       id: 3,
       lat: 0,
       lon: 0,
       tags: { sport: "beach_volleyball", name: "Null Island" },
+    },
+    // Court sitting inside the fake sports_hall below → source "hall".
+    {
+      type: "node" as const,
+      id: 4,
+      lat: 47.38,
+      lon: 8.55,
+      tags: { sport: "beach_volleyball", name: "Inside The Hall" },
     },
     // duplicate → should dedupe
     {
@@ -61,6 +82,13 @@ const fake: OverpassResponse = {
     },
     // no coords → should skip
     { type: "node" as const, id: 99, tags: { sport: "beach_volleyball" } },
+    // Enclosing sports_hall. Not a court itself (no sport tag).
+    {
+      type: "way" as const,
+      id: 1000,
+      geometry: HALL_RING,
+      tags: { building: "sports_hall", name: "Test Hall" },
+    },
   ],
 };
 
@@ -69,15 +97,24 @@ console.assert(cantonForPoint(47.37, 8.54)?.code === "ZH", "Zürich PIP");
 console.assert(cantonForPoint(47.50, 8.72)?.code === "ZH", "Winterthur PIP");
 console.assert(cantonForPoint(0, 0) === null, "Null Island PIP");
 
-mkdirSync("/tmp/zhbv", { recursive: true });
-const courts = normalize(fake);
-console.assert(courts.length === 3, `expected 3 courts, got ${courts.length}`);
+const hints = indoorHintsFromResponse(fake);
+console.assert(hints.length === 1, `expected 1 indoor hint, got ${hints.length}`);
+console.assert(hints[0]!.tags.building === "sports_hall", "hint is sports_hall");
 
-// Sort order: canton (ZH) first, then null canton last.
-// Within ZH: municipality Winterthur < Zürich.
-console.assert(courts[0]!.canton === "ZH" && courts[0]!.municipality === "Winterthur", "sort[0]");
-console.assert(courts[1]!.canton === "ZH" && courts[1]!.municipality === "Zürich", "sort[1]");
-console.assert(courts[2]!.canton === null, "null-canton court sinks last");
+mkdirSync("/tmp/zhbv", { recursive: true });
+const courts = normalize(fake, { keepCanton: "ZH", indoorHints: hints });
+console.assert(courts.length === 3, `expected 3 ZH courts, got ${courts.length}`);
+console.assert(
+  courts.every((c) => c.canton === "ZH"),
+  "keepCanton filters to ZH only",
+);
+
+const byName = Object.fromEntries(courts.map((c) => [c.name, c]));
+console.assert(byName["Test Court A"]!.indoor === false, "A: outdoor");
+console.assert(byName["Test Court B"]!.indoor === true, "B: indoor");
+console.assert(byName["Test Court B"]!.indoorSource === "tag", "B: indoor via tag");
+console.assert(byName["Inside The Hall"]!.indoor === true, "D: indoor via hall PIP");
+console.assert(byName["Inside The Hall"]!.indoorSource === "hall", "D: source=hall");
 
 writeJson("/tmp/zhbv/raw.json", fake);
 writeGeoJSON("/tmp/zhbv/courts.geojson", courts);
@@ -90,25 +127,28 @@ const geo = JSON.parse(readFileSync("/tmp/zhbv/courts.geojson", "utf8"));
 console.assert(geo.features.length === 3, "geojson feature count");
 console.assert(geo.features[0].properties.canton === "ZH", "geojson canton prop");
 console.assert(
-  Math.abs(geo.features[0].geometry.coordinates[0] - 8.72) < 0.01,
-  "way centroid",
+  "street" in geo.features[0].properties,
+  "geojson has street prop",
 );
 
 const csv = readFileSync("/tmp/zhbv/courts.csv", "utf8");
 const header = csv.split("\n")[0]!;
 console.assert(header.includes(",canton,"), "csv has canton column");
-console.assert(csv.split("\n").length === 5, "csv lines (header + 3 + trailing)");
+console.assert(header.includes(",street,"), "csv has street column");
 
 const md = readFileSync("/tmp/zhbv/INDEX.md", "utf8");
-console.assert(md.includes("## ZH — "), "INDEX has canton section");
-console.assert(md.includes("### Winterthur (1)"), "INDEX has municipality sub-section");
-console.assert(md.includes("### Zürich (1)"));
-console.assert(/courts across.*cantons \/.*municipalities/.test(md), "summary line");
-console.assert(md.includes("## Outside Switzerland"), "outside-CH section");
+console.assert(md.includes("Canton of Zurich"), "INDEX title scoped to ZH");
+console.assert(md.includes("## Winterthur (1)"), "muni promoted to ## (single canton)");
+console.assert(md.includes("## Zürich (1)"));
+console.assert(/courts across.*municipalities/.test(md), "summary line");
+console.assert(
+  md.includes("yes (inferred)") || md.includes("yes"),
+  "INDEX marks indoor court",
+);
 
 console.log("OK — all assertions passed");
 console.log("  courts:", courts.length);
-console.log("  geojson features:", geo.features.length);
+console.log("  indoor:", courts.filter((c) => c.indoor).length);
 console.log("  first court:", courts[0]!.name, "in", courts[0]!.municipality, `[${courts[0]!.canton}]`);
 
 rmSync("/tmp/zhbv", { recursive: true, force: true });

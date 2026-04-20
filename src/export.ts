@@ -24,8 +24,10 @@ export function writeGeoJSON(path: string, courts: Court[]): void {
         canton: c.canton,
         cantonName: c.cantonName,
         municipality: c.municipality,
+        street: c.street,
         access: c.access,
         indoor: c.indoor,
+        indoorSource: c.indoorSource,
         fee: c.fee,
         surface: c.surface,
         lit: c.lit,
@@ -51,6 +53,7 @@ export function writeCSV(path: string, courts: Court[]): void {
   const cols: (keyof Court)[] = [
     "id",
     "name",
+    "street",
     "municipality",
     "canton",
     "postcode",
@@ -71,6 +74,13 @@ export function writeCSV(path: string, courts: Court[]): void {
     ...courts.map((c) => cols.map((k) => csvEscape(c[k])).join(",")),
   ];
   writeFileSync(path, lines.join("\n") + "\n", "utf8");
+}
+
+function displayName(c: Court): string {
+  if (c.name) return c.name;
+  const parts = [c.street, c.municipality].filter(Boolean) as string[];
+  if (parts.length > 0) return parts.join(", ");
+  return "_(unnamed)_";
 }
 
 export function writeMarkdownIndex(
@@ -102,15 +112,27 @@ export function writeMarkdownIndex(
   );
 
   const lines: string[] = [];
-  lines.push(`# Beach volleyball courts — Greater Zurich`);
+  const knownCantons = cantonKeys.filter((k) => k !== "??");
+  const singleCanton = knownCantons.length === 1 ? knownCantons[0]! : null;
+  const title = singleCanton
+    ? `# Beach volleyball courts — Canton of ${cantonNames.get(singleCanton)}`
+    : `# Beach volleyball courts — Switzerland`;
+  lines.push(title);
   lines.push("");
   lines.push(`_Fetched: ${meta.fetchedAt}_`);
   lines.push("");
-  const cantonCount = cantonKeys.filter((k) => k !== "??").length;
-  lines.push(
-    `**${courts.length}** courts across **${cantonCount}** cantons / **${muniSet.size}** municipalities.`,
-  );
+  const summary = singleCanton
+    ? `**${courts.length}** courts across **${muniSet.size}** municipalities.`
+    : `**${courts.length}** courts across **${knownCantons.length}** cantons / **${muniSet.size}** municipalities.`;
+  lines.push(summary);
   lines.push("");
+  const indoorCount = courts.filter((c) => c.indoor).length;
+  if (indoorCount > 0) {
+    lines.push(
+      `Of which **${indoorCount}** are indoor (tag or inferred from an enclosing hall).`,
+    );
+    lines.push("");
+  }
   lines.push(`Source: © OpenStreetMap contributors (ODbL 1.0).`);
   lines.push("");
 
@@ -120,26 +142,36 @@ export function writeMarkdownIndex(
   for (const cCode of cantonKeys) {
     const muniMap = byCanton.get(cCode)!;
     const total = [...muniMap.values()].reduce((n, xs) => n + xs.length, 0);
-    const header =
-      cCode === "??"
-        ? `## Outside Switzerland (${total} court${total === 1 ? "" : "s"})`
-        : `## ${cCode} — ${cantonNames.get(cCode)} (${total} court${total === 1 ? "" : "s"})`;
-    lines.push(header);
-    lines.push("");
+
+    // Skip the canton-level section header when we have exactly one canton;
+    // promote municipalities to ##.
+    if (!singleCanton) {
+      const header =
+        cCode === "??"
+          ? `## Outside Switzerland (${total} court${total === 1 ? "" : "s"})`
+          : `## ${cCode} — ${cantonNames.get(cCode)} (${total} court${total === 1 ? "" : "s"})`;
+      lines.push(header);
+      lines.push("");
+    }
 
     const muniKeys = [...muniMap.keys()].sort((a, b) =>
       muniSortKey(a).localeCompare(muniSortKey(b)),
     );
     for (const m of muniKeys) {
       const list = muniMap.get(m)!;
-      lines.push(`### ${m} (${list.length})`);
+      const headerPrefix = singleCanton ? "##" : "###";
+      lines.push(`${headerPrefix} ${m} (${list.length})`);
       lines.push("");
       lines.push(`| Name | Access | Indoor | Surface | Coords | OSM |`);
       lines.push(`|---|---|---|---|---|---|`);
       for (const c of list) {
-        const name = c.name ?? "_(unnamed)_";
+        const name = displayName(c);
         const access = c.access ?? "—";
-        const indoor = c.indoor ? "yes" : "—";
+        const indoor = c.indoor
+          ? c.indoorSource === "hall"
+            ? "yes (inferred)"
+            : "yes"
+          : "—";
         const surface = c.surface ?? "—";
         const coords = `${c.lat.toFixed(5)}, ${c.lon.toFixed(5)}`;
         lines.push(
