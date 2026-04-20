@@ -1,7 +1,8 @@
 /* global L */
 // Editorial Leaflet viewer for Greater Zurich beach volleyball courts.
 // Fetches ./courts.geojson (built by `npm run build:site`) and renders a
-// synced list + map with search and indoor/outdoor filtering.
+// synced list + map with search, indoor/outdoor filtering, canton chips,
+// and deep-linkable hash state (#id=…&q=…&type=…&cantons=…).
 
 const MAP_CENTER = [47.38, 8.54]; // Zurich
 const MAP_ZOOM = 10;
@@ -13,6 +14,45 @@ const state = {
   filter: "all",    // "all" | "outdoor" | "indoor"
   cantons: new Set(), // selected canton codes; empty = all
   selectedId: null,
+};
+
+// ─── Hash state ───────────────────────────────────────────────────────────
+// Shape: #id=<osmType>/<osmId>&q=<search>&type=indoor|outdoor&cantons=ZH,AG
+// Empty keys are omitted. Malformed hashes fall back to defaults.
+
+const hashState = {
+  read() {
+    try {
+      const raw = location.hash.startsWith("#") ? location.hash.slice(1) : location.hash;
+      const p = new URLSearchParams(raw);
+      const type = p.get("type");
+      return {
+        id: p.get("id") || null,
+        q: p.get("q") || "",
+        type: type === "indoor" || type === "outdoor" ? type : "all",
+        cantons: (p.get("cantons") || "").split(",").map((s) => s.trim()).filter(Boolean),
+      };
+    } catch (err) {
+      console.warn("[viewer] Malformed hash, ignoring:", err);
+      return { id: null, q: "", type: "all", cantons: [] };
+    }
+  },
+  write() {
+    const p = new URLSearchParams();
+    if (state.selectedId) p.set("id", state.selectedId);
+    if (state.search) p.set("q", state.search);
+    if (state.filter !== "all") p.set("type", state.filter);
+    if (state.cantons.size > 0) p.set("cantons", [...state.cantons].join(","));
+    const s = p.toString();
+    const next = s ? `#${s}` : "";
+    if (location.hash === next) return;
+    // replaceState: no scroll jump, no history spam.
+    history.replaceState(null, "", location.pathname + location.search + next);
+  },
+  subscribe(fn) {
+    window.addEventListener("popstate", () => fn(this.read()));
+    window.addEventListener("hashchange", () => fn(this.read()));
+  },
 };
 
 const els = {
@@ -54,7 +94,36 @@ async function loadData() {
     return;
   }
   renderCantonChips();
+  applyHashState(hashState.read(), { fromHash: true, selectFromId: true });
+}
+
+// Apply hash-derived state to the UI. When fromHash is true we skip the
+// hash write-back so we don't fight with history.replaceState.
+function applyHashState(h, { fromHash = false, selectFromId = false } = {}) {
+  state.search = h.q;
+  state.filter = h.type;
+  state.cantons = new Set(h.cantons);
+
+  els.search.value = h.q;
+  els.chips.forEach((c) => {
+    c.setAttribute(
+      "aria-pressed",
+      c.dataset.filter === h.type ? "true" : "false",
+    );
+  });
+  syncCantonChipPressed();
+
   recompute();
+
+  if (selectFromId && h.id) {
+    const hit = state.features.find((f) => featureId(f) === h.id);
+    if (hit) {
+      // Defer to next tick so the list has rendered and scrollIntoView works.
+      requestAnimationFrame(() =>
+        selectCourt(h.id, { fly: true, openPopup: true, writeHash: !fromHash }),
+      );
+    }
+  }
 }
 
 function recompute() {
@@ -120,6 +189,7 @@ function toggleCantonChip(code) {
   }
   syncCantonChipPressed();
   recompute();
+  hashState.write();
 }
 
 function syncCantonChipPressed() {
@@ -277,6 +347,7 @@ function popupHtml(f) {
   const name = p.name ? escapeHtml(p.name) : "Unnamed court";
   const muni = p.municipality ? escapeHtml(p.municipality) : "";
   const type = p.indoor ? "Indoor" : "Outdoor";
+  const id = featureId(f);
   const osm = p.osmUrl
     ? `<a href="${escapeAttr(p.osmUrl)}" target="_blank" rel="noopener">OSM ↗</a>`
     : "";
@@ -284,18 +355,44 @@ function popupHtml(f) {
     ? `<a href="${escapeAttr(p.website)}" target="_blank" rel="noopener">Website ↗</a>`
     : "";
   const gmaps = `<a href="https://www.google.com/maps/search/?api=1&query=${lat},${lon}" target="_blank" rel="noopener">Directions ↗</a>`;
+  const copy = `<button type="button" class="popup-copy" data-copy-id="${escapeAttr(id)}">Copy link ↗</button>`;
   return `
     <div class="popup">
       <p class="popup-name">${name}</p>
       <p class="popup-meta">${type}${muni ? " · " + muni : ""}</p>
-      <p class="popup-links">${[gmaps, osm, site].filter(Boolean).join("")}</p>
+      <p class="popup-links">${[gmaps, osm, site, copy].filter(Boolean).join("")}</p>
     </div>
   `;
 }
 
+// Event delegation: copy-link clicks from any popup.
+map.on("popupopen", (e) => {
+  const btn = e.popup.getElement()?.querySelector(".popup-copy");
+  if (!btn) return;
+  btn.addEventListener(
+    "click",
+    async () => {
+      const id = btn.dataset.copyId ?? "";
+      const url = location.origin + location.pathname + "#id=" + encodeURIComponent(id);
+      const label = btn.textContent;
+      try {
+        await navigator.clipboard.writeText(url);
+        btn.textContent = "Copied";
+      } catch {
+        // Fallback: prompt shows the URL so the user can copy manually.
+        window.prompt("Copy this link:", url);
+      }
+      setTimeout(() => {
+        btn.textContent = label;
+      }, 1400);
+    },
+    { once: false },
+  );
+});
+
 // ─── Selection & sync ─────────────────────────────────────────────────────
 
-function selectCourt(id, { fly, openPopup }) {
+function selectCourt(id, { fly, openPopup, writeHash = true } = {}) {
   const prevId = state.selectedId;
   state.selectedId = id;
 
@@ -312,17 +409,23 @@ function selectCourt(id, { fly, openPopup }) {
   renderMarkers(state.visible); // refresh marker classes
 
   const marker = markersById.get(id);
-  if (!marker) return;
-  const latlng = marker.getLatLng();
-  if (fly) map.flyTo(latlng, Math.max(map.getZoom(), 14), { duration: 0.6 });
-  if (openPopup) marker.openPopup();
+  if (marker) {
+    const latlng = marker.getLatLng();
+    if (fly) map.flyTo(latlng, Math.max(map.getZoom(), 14), { duration: 0.6 });
+    if (openPopup) marker.openPopup();
+  }
+
+  if (writeHash) hashState.write();
 }
 
 // ─── Controls ─────────────────────────────────────────────────────────────
 
+let searchDebounce;
 els.search.addEventListener("input", (e) => {
   state.search = e.target.value;
   recompute();
+  clearTimeout(searchDebounce);
+  searchDebounce = setTimeout(() => hashState.write(), 200);
 });
 
 els.chips.forEach((chip) => {
@@ -337,8 +440,12 @@ els.chips.forEach((chip) => {
       );
     });
     recompute();
+    hashState.write();
   });
 });
+
+// Browser back/forward + manual URL edits.
+hashState.subscribe((h) => applyHashState(h, { fromHash: true, selectFromId: true }));
 
 // ─── Utilities ────────────────────────────────────────────────────────────
 

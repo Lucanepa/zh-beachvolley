@@ -377,6 +377,20 @@ a:hover { text-decoration-color: var(--clay); }
   flex-wrap: wrap;
   margin-top: 6px;
 }
+.popup-copy {
+  font: inherit;
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-underline-offset: 3px;
+  letter-spacing: inherit;
+  text-transform: inherit;
+}
+.popup-copy:hover { text-decoration-color: var(--clay); }
 
 /* ─── Footer ───────────────────────────────────────────────────────────── */
 
